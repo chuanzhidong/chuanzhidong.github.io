@@ -1,15 +1,14 @@
 ---
-title: "Monitoring and Identification of Vehicle-Bridge Interaction using Mobile Truck-based Wireless Sensors"
-collection: Proceedings of 11th International Workshop on Advanced Smart Materials and Smart Structures Technology
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2015-08-01
-venue: 'Proceedings of 11th International Workshop on Advanced Smart Materials and Smart Structures Technology'
-paperurl: 'http://sstl.cee.illinois.edu/papers/aeseancrisst15/247_Hou_Monitoring.pdf'
-citation: 'Hou, R., Y. Zhang, S. O’Connor, Y. Hong, and J. P. Lynch. "Monitoring and Identification of Vehicle-Bridge Interaction using Mobile Truck-based Wireless Sensors." In Proceedings of 11th International Workshop on Advanced Smart Materials and Smart Structures Technology, pp. 1-2. 2015.'
+title: "A Completely Non-Contact Recognition System for Bridge Unit Influence Line Using Portable Cameras and Computer Vision"
+collection: Smart Structures and Systems
+permalink: https://www.researchgate.net/publication/337495712_A_completely_non-contact_recognition_system_for_bridge_unit_influence_line_using_portable_cameras_and_computer_vision
+excerpt: 
+date: 2019-11-01
+venue: 
+paperurl: 'http://koreascience.or.kr/article/JAKO201933762688604.page'
+citation: 'Dong, C.Z., Bas, S., and Catbas, F.N. (2019), “A Completely Non-Contact Recognition System for Bridge Unit Influence Line Using Portable Cameras and Computer Vision”, Smart Structures and Systems, 24(5), 617-630. '
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://www.researchgate.net/publication/337495712_A_completely_non-contact_recognition_system_for_bridge_unit_influence_line_using_portable_cameras_and_computer_vision)
 
-Recommended citation: Hou, R., Y. Zhang, S. O’Connor, Y. Hong, and J. P. Lynch. "Monitoring and Identification of Vehicle-Bridge Interaction using Mobile Truck-based Wireless Sensors." In Proceedings of 11th International Workshop on Advanced Smart Materials and Smart Structures Technology, pp. 1-2. 2015.
+Recommended citation: Dong, C.Z., Bas, S., and Catbas, F.N. (2019), “A Completely Non-Contact Recognition System for Bridge Unit Influence Line Using Portable Cameras and Computer Vision”, Smart Structures and Systems, 24(5), 617-630.

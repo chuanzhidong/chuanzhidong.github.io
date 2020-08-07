@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rui (Ray) Hou"
+title                    : "Chuan-Zhi Dong (董传智)"
 title_separator          : "-"
-name                     : &name "Rui (Ray) Hou"
+name                     : &name "Chuan-Zhi Dong (董传智)"
 description              : &description "personal description"
-url                      : https://rayhou0710.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://chuanzhidong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rayhou0710.github.io"
+repository               : "chuanzhidong.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,27 +78,27 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rui (Ray) Hou"
-  avatar           : "Rui Hou.jpg"
-  bio              : "We’re finely ornamented apes. \ 洵直且侯, 舍命不渝。" 
-  location         : "Ann Arbor, MI"
-  employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=PKHKqX0AAAAJ&hl=en&authuser=1"
-  email            : "rayhou@umich.edu"
-  uri              : "https://rayhou0710.github.io"
+  name             : "Chuan-Zhi Dong (董传智)"
+  avatar           : "ChuanzhiDong.jpg"
+  bio              : "淡泊以明志，宁静以致远" 
+  location         : "Orlando, FL"
+  employer         : "University of Central Florida"
+  googlescholar    : "https://scholar.google.com/citations?user=Xs_dNn4AAAAJ&hl=en&authuser=1"
+  email            : "ceczdong@knights.ucf.edu"
+  uri              : "https://chuanzhidong.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : raymond.hou.378
+  facebook         : 
   foursquare       :
-  github           : rayhou0710
+  github           : chuanzhidong
   google_plus      :
   keybase          :
-  instagram        : raymond_hr
+  instagram        : 
   lastfm           :
-  linkedin         : rayhou
-  orcid            : "http://orcid.org/0000-0001-5829-4628"
+  linkedin         : "https://www.linkedin.com/in/chuan-zhi-dong-%E8%91%A3%E4%BC%A0%E6%99%BA-b9a7b615b/"
+  orcid            : "http://orcid.org/0000-0001-6010-2859"
   pinterest        :
   soundcloud       :
   stackoverflow    :

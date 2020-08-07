@@ -11,76 +11,118 @@ redirect_from:
 
 Education
 ------
-* Ph.D. Candidate, Civil Engineering (Intelligent Systems Track), 2015 - Present
-  * University of Michigan, Ann Arbor, MI
-  <!-- * Advisor: Prof. Jerome P. Lynch -->
-* M.S.E, Computer Science & Engineering, 2016 - Present
-  * University of Michigan, Ann Arbor, MI (GPA: 4.0/4.0)
-* M.S.E, Civil Engineering (Intelligent Systems Track), 2014 - 2016
-  * University of Michigan, Ann Arbor, MI (GPA: 4.0/4.0)
-* B.S., Civil Engineering, 2010 - 2014
-  * Tongji University, Shanghai, China (GPA: 91/100)
+* Ph.D., Civil Engineering (Structural Engineering Track), 2016 - 2019
+  * University of Central Florida, Orlando, FL (Advisor: Prof. F. Necati Catbas)
+  <!-- * Advisor: Prof. F. Necati Catbas -->
+* M.Sc., Bridge and Tunnel Engineering, 2013 - 2016
+  * Zhejiang University, Hangzhou, China
+* B.S., Engineering Management, 2007 - 2011
+  * Zhejiang Gongshang University, Hangzhou, China
   
 
 Employment Experience
 ------
-* Graduate Student Research Assistant, Jan.2015 - Present
-  * Laboratory for Intelligent Systems and Technologies, University of Michigan, Ann Arbor, MI
-  * Supervisor: Prof. Jerome P. Lynch
+* Postdoctoral Research Associate, Dec. 2019 - Present
+  * Laboratory for Civil Infrastructure Technologies for Resilience & Safety (CITRS), University of Central Florida, Orlando, FL
+    * Conducting structural health monitoring and structural behavior analysis using computer vision technology.
+    * Developing on-board railway track condition monitoring systems using sensor fusion technology.
+    * Writing proposals to National Science Foundation (NSF) and U.S./States Department of Transportation.
 
-* Material Informatics Intern, Sep.2017 - Dec.2017
-  * Toyota Research Institute, Ann Arbor, MI
-  * Supervisor: Dr. Debasish Banerjee & Dr. Chen Ling
+* Research Assistant, Aug. 2016 - Dec. 2019
+  * Laboratory for Civil Infrastructure Technologies for Resilience & Safety (CITRS), University of Central Florida, Orlando, FL
+    * Investigating the structural behavior of bridges and stadiums using computer vision techniques, including vibration monitoring, load estimation, structural identification, damage detection, structures modelling and load rating.
+    * Carrying out research on human induced vibrations of bridge structures and stadiums monitoring using computer vision and assessing vibration serviceability.
+    * Guiding undergraduates to do finite element model analysis, loading test, vibration monitoring and modal analysis.
   
-* Building Information Modeling Intern, Feb.2014 - Jun.2014
-  * Shanghai Construction Group, Shanghai, China
-  <!-- * Supervisor: Yunchao Liu -->
+* Research Assistant, May 2012 - Aug. 2016
+  * College of Civil Engineering and Architecture, Zhejiang University, Hangzhou, China.
+    * Carried out research on structural health monitoring and cable vibration control.
+    * Build a scale cable-stayed bridge model and its structural health monitoring system and conduct regular data analysis.
+    * Improved the elasto-magnetic effect based total stress monitoring method for stayed cable and prestressed steel strands, and install sensors in the actual engineering projects.
+    * Carried out structural mechanical experiments and bridge inspection.
+    * Developed the machine vision technology and its application in the field of civil engineering.
+    * Developed the virtual simulation experiment platform for the lab.
 
-* Field Engineer Intern, Jul.2013 - Aug.2013
-  * Shanghai Tongji Project Management & Consulting Co., Ltd., Shanghai, China,            
+* Teaching Assistant, Sep. 2014 - Jun. 2016
+  * College of Civil Engineering and Architecture, Zhejiang University, Hangzhou, China.
+    * Structural Health Monitoring and Vibration Control: Undergraduate level course.
+
+
+
+Project Involved
+------
+* NSF Project: US-Ireland Partnership Program: Bridge Health Monitoring Using Cameras and Computer Vision methods. Key partners: UCF (USA), University College Dublin (Ireland), and Queen's University Belfast (UK).
+* NASA Project: Reliability-based bridge inspection and monitoring.
+* NASA bridge condition assessment and load testing project.
+* NSF Innovation Corps (I-Corps) research.
+* Vibration monitoring, human load estimation and human comfortable analysis of footbridge and stadiums. 
+* Research on machine vision-based bridge health monitoring and condition assessment: method development, system establishment, experimental verification, data process and analysis.
+* Research on management and maintenance for the Jiubao Bridge (China) structural health monitoring system.
+* Research on bridge and tunnel inspection and condition assessment using normal methods.
+* Development and application of stayed cable stress monitoring system on the Second Jiaojiang Bridge, China.
+* Research on externally prestressed tendon stress loss monitoring method on Quanzhou Bay Cross sea Bridge, China.
+* Quality monitoring and control of bridge prestressing tendons stretching on in Wenling, Taizhou, China.
+* Research on the virtual simulation experiment platform, machine vision and machine learning, Zhejiang University, China.
 
 
 Skills
 ------
 * Programming
-  * Python, C++, MATLAB, C, Java, Javascript, SQL, NoSQL(MongoDB, Cassandra), Linux
-* Data Analysis
-  * Data Mining, Machine Learning, Computer Vision, Natural Language Processing, Signal Processing, Sensor Fusion, Embedded Systems
-* Deep Learning Framework
-  * Tensorflow, Caffe, Torch
+  * C++, C#, Python, MATLAB, LabVIEW, R, Qt, OpenCV, Halcon, Linux Shell
+* Engineering Calcualtion and Simulation
+  * SAP2000, CSiBridge, COMSOL, ANSYS, Nastran, Midas Civil, Abaqus
 * Design & Presentation
-  * Adobe Creative Suite (Photoshop, Illustrator), Microsoft Office Suite
+  * AutoCAD, Microsoft Office Suite, Multism, Solidworks, SpaceClaim
+* Data Analysis
+  * Data Mining, Machine Learning, Computer Vision, Signal Processing
+* Deep Learning Framework
+  * Tensorflow, Torch
                                                                                      
 
 Selected Coursework
 ------
-* EECS 586: Algorithms
-* EECS 583: Advanced Compiler
-* EECS 560: Linear System Theory
-* EECS 551: Matrix Method for Signal Processing
-* EECS 545: Machine Learning
-* EECS 542: Advanced Topics in Computer Vision
-* EECS 501: Probability and Random Process
-* EECS 485: Web Databases & Information Systems
-* EECS 484: Database Management Systems
-* EECS 461: Embedded Control Systems
-* EECS 460: Control System Analysis and Design 
+* CES 5144: Matrix Structural Analysis
+* CES 5325: Bridge Engineering
+* CES 6116: Finite Element Analysis
+* CES 6209: Dynamics of Structures
+* CAP 5415: Computer Vision
+* CAP 6412: Advanced Computer Vision
+* CAP 6419: 3D Computer Vision
+* STA 5703: Data Mining
 
 
 Honors & Awards
 ------
-* Rackham Conference Travel Grant, University of Michigan 2017
-* William Colon Lemon Scholarship, University of Michigan 2016
-* Graduate Student Support Fellowship, University of Michigan 2016
-* Outstanding Graduate Honor, Tongji University 2014
-* Outstanding Student in the Department of Civil Engineering, Tongji University (10/2000) 2013
-* CanforWooden Structure Scholarship (Sponsored by Canfor Corporation), Tongji University 2013
-* First Prize in the 2013 Shanghai College Student Computer Application Competition 2013
-* Intertek Scholarship (2/520, Sponsored by Intertek Group PLC), Tongji University 2012
+* The CECS’s 2019 Outstanding Dissertation Award by College of Engineering and Computer Science, University of Central Florida. 2019.
+* The Bronze award of the 44th International Exhibition of Inventions of Geneva, 13-17 April 2016, Geneva, Switzerland.
+* The first prize of student paper competition at the 6th Cross-strait Symposium on Structural Monitoring and Control in Civil Engineering, 13-17 August 2015, Xiamen, China.
+* The Second prize of the first Traffic-Future College Students Creative Works Competition, 22 April 2016, Chengdu, China.
+* The 2016 graduate scholarship of College of Civil Engineering and Architecture, Zhejiang University.
+* Award of Honor for Graduate, Graduate of Merit/Triple A graduate, first special scholarship of Huahui Lingyan fund, Zhejiang University.
 
 
-Service & Leadership
+Professional Membership & Services
 ------
-* Vice President of the Volunteer Service Department at Tongji University, Oct.2010 - Jun.2012  
-* Leader of the Tongji Education Aid Activity (Raised over 50,000CNY to subsidize 204 pupils), Sep.2011 - Nov.2011                           
-* Volunteer Coordinator of the 14th FINA World Championships Shanghai 2011 Organizing Committee, Jul.2011    
+* Professional Membership
+  * Associate member of American Society of Civil Engineers (ASCE)
+  * Committee member of Society for Experimental Mechanics (SEM): Dynamics of Civil Structures Technical Division
+  * Committee member of Society for Experimental Mechanics (SEM): Optical Methods Technical Division
+  * Member, Transportation Research Board Committee of National Academies of Science and Engineering: Committee AFF 40 Field testing and NDE of Transportation Structures
+  * Member, Transportation Research Board Committee of National Academies of Science and Engineering – Sub Committee: Non-Destructive Evaluation of Structures
+
+* Journal Referee and Service
+  * Journal of Structural Engineering, ASCE
+  * Structural Health Monitoring
+  * Structural Control and Health Monitoring
+  * Mechanical Systems and Signal Processing
+  * Sensors
+  * Applied Science
+  * Journal of Performance of Constructed Facilities (ASCE)
+  * Frontiers in Built Environment: Review Editor in the Editorial Board
+  * Experimental Techniques
+  * International Journal of Advanced Manufacturing Technology
+  * Scientific Report
+
+* Certificate
+  * “Theory, Experiments & Application for Structure Monitoring & Machine Learning – Design, Build & Analyze Real Data Using Low Cost Sensors” course completion certificated by Society for Experimental Mechanics
+  * Pre short course completion certificated by the 8th International Conference on Experimental Vibration Analysis for Civil Engineering Structures (EVACES 2019)

@@ -10,11 +10,9 @@ redirect_from:
 
 ## About Me
 
-I am currently a Ph.D. candidate in the Department of Civil and Environmental Engineering at the University of Michigan; meanwhile, I am also pursuing a M.S.E degree in Computer Science & Engineering. I am advised by Professor [Jerome P. Lynch](http://www-personal.umich.edu/~jerlynch/proflynch.html) and am a graduate student research assistant in the [Laboratory for Intelligent Systems and Technologies (LIST)](http://www-personal.umich.edu/~jerlynch/index.html) at the University of Michigan. 
+I am currently a Postdoctoral Research Associate in the Department of Civil, Environmental, and Construction Engineering at the University of Central Florida. I am advised by Professor [F. Necati Catbas](https://www.cece.ucf.edu/catbas/) and am a research associate in the [Laboratory for Civil Infrastructure Technologies for Resilience and Safety (CITRS)](https://www.cece.ucf.edu/CITRS/) at the University of Central Florida. 
 
-My research interests lie at the intersection of traditional infrastructures (e.g. highway bridges) and cutting-edge electrical & computer engineering technologies (e.g. computer vision). One of my recent research projects is to build a cyber-physical system (CPS) integrating wireless structural health monitoring (SHM) systems deployed in highway bridges with intelligent transportation systems (ITS) and cloud computing platforms aiming to make the infrastructure & transportation systems smarter and robuster.
-
-In this semester (from Sep. 2017 to Dec. 2017), I intern at [Toyota Research Institute (TRI)](http://www.tri.global/), Ann Arbor, MI. Working as a materials informatics intern, I am applying machine learning techniques, especially text mining and natural language processing techniques, to information extraction in materials science. The goal is to convert unstructured data in sources such as electronic literature and patents to structured knowledge base such (e.g., ontology) to support further data mining (e.g., what temperature is most suitable for the synthesis of a certain lithium compound?). 
+My research is using computer vision to evaluate the structural behavior and assess structural condition in global level. His research interests are vision-based displacement measurement, load estimation, modal analysis, structural identification, damage detection, human comfortable analysis, vibration serviceability and bridge load rating. What he is developing is a full version of computer vision-based structural health monitoring framework which combines input-output (loads and responses) information from images. Chuan-Zhi' goal is to utilize mechanics knowledge, advanced sensing technologies, computer vision, machine learning and signal processing to do structural health monitoring and support decision making for owners to do better structural management and maintenance.
 
 <!-- Working in the Materials Research Department, my responsibility  is to fulfill the requirement of materials informatics research in the group. Machine learning techniques are applied to analyze problems in materials science. Typical duties include: text mining data from literatures and patents; clarify the connection between different objects; statistically analyze the property-structure-process relation, etc.  -->
 
@@ -22,14 +20,14 @@ In this semester (from Sep. 2017 to Dec. 2017), I intern at [Toyota Research Ins
 
 ## Goals for the Near Future
 
-* Seeking for an internship opportunity related to software engineering or data science (machine learning) for Summer 2018.
-* Obtain my Ph.D. degree in two years and find an industry job related to tech product (hardware or software) development that is not just fancy but can truly influence people's daily life. 
+* Seeking for a faculty job (assistant professor) in the department of civil engineering of a university.
+* Turn my PhD research into really useful product or tools for the researchers or engineering practioners in the area of civil infrastructure monitoring and condition assessment. 
 
 ## Lifetime Goals
 
-* Run a fusion cuisine restaurant
-* Film a movie
-* Own a television channel or network
+* Be a professor and teach some helpful courses
+* Write a novel
+* Maybe have PhD in History
 
 <!-- Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
