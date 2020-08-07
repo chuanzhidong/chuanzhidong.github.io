@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ------
-* Ph.D., Civil Engineering (Structural Engineering Track), 2016 - 2019
+* Ph.D., Structural Engineering, 2016 - 2019
   * University of Central Florida, Orlando, FL (Advisor: Prof. F. Necati Catbas)
   <!-- * Advisor: Prof. F. Necati Catbas -->
 * M.Sc., Bridge and Tunnel Engineering, 2013 - 2016
