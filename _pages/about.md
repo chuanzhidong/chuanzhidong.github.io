@@ -10,9 +10,9 @@ redirect_from:
 
 ## About Me
 
-I currently work as the Postdoctoral Research Associate in the Department of Civil, Environmental, and Construction Engineering at the University of Central Florida. I am advised by Professor [F. Necati Catbas](https://www.cece.ucf.edu/catbas/) and am a research associate in the [Laboratory for Civil Infrastructure Technologies for Resilience and Safety (CITRS)](https://www.cece.ucf.edu/CITRS/) at the University of Central Florida. 
+I currently work as the Postdoctoral Research Associate in the Department of Civil, Environmental, and Construction Engineering at the University of Central Florida. I am advised by Professor [F. Necati Catbas](https://www.cece.ucf.edu/catbas/). In the mean time, I am a research associate in the [Laboratory for Civil Infrastructure Technologies for Resilience and Safety (CITRS)](https://www.cece.ucf.edu/CITRS/) at the University of Central Florida. 
 
-My research is using computer vision to evaluate the structural behavior and assess structural condition in global level. His research interests are vision-based displacement measurement, load estimation, modal analysis, structural identification, damage detection, human comfortable analysis, vibration serviceability and bridge load rating. What he is developing is a full version of computer vision-based structural health monitoring framework which combines input-output (loads and responses) information from images. Chuan-Zhi' goal is to utilize mechanics knowledge, advanced sensing technologies, computer vision, machine learning and signal processing to do structural health monitoring and support decision making for owners to do better structural management and maintenance.
+My research is using computer vision to evaluate the structural behaviors and conduct the structural condition assessment at global level. My research interests are vision-based displacement measurement, load estimation, modal analysis, structural identification, damage detection, human comfortable analysis, vibration serviceability assessment and bridge load rating. What I am developing is a full version of computer vision-based structural monitoring and evaluation framework which combines the input-output information from images (loads and responses) to assess the performance and condition of structures. My goal is to utilize mechanics knowledge, advanced sensing technologies, computer vision, machine learning, deep learning and signal processing techniques to conduct structural health monitoring and support decision making for owners to do better structural management and maintenance.
 
 <!-- Working in the Materials Research Department, my responsibility  is to fulfill the requirement of materials informatics research in the group. Machine learning techniques are applied to analyze problems in materials science. Typical duties include: text mining data from literatures and patents; clarify the connection between different objects; statistically analyze the property-structure-process relation, etc.  -->
 
@@ -20,8 +20,8 @@ My research is using computer vision to evaluate the structural behavior and ass
 
 ## Goals for the Near Future
 
-* Seeking for a faculty job (assistant professor) in the department of civil engineering of a university.
-* Converting my PhD research findings into really useful product or tools for the researchers or engineering practioners in the area of civil infrastructure monitoring and condition assessment. 
+* Seeking for a faculty job (assistant professor) in a university.
+* Converting my research findings into really useful products or tools for the researchers or engineering practioners in the area of civil infrastructure monitoring and condition assessment. 
 
 ## Lifetime Goals
 
