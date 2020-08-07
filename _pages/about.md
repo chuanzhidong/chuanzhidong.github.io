@@ -21,7 +21,7 @@ My research is using computer vision to evaluate the structural behavior and ass
 ## Goals for the Near Future
 
 * Seeking for a faculty job (assistant professor) in the department of civil engineering of a university.
-* Turn my PhD research into really useful product or tools for the researchers or engineering practioners in the area of civil infrastructure monitoring and condition assessment. 
+* Converting my PhD research findings into really useful product or tools for the researchers or engineering practioners in the area of civil infrastructure monitoring and condition assessment. 
 
 ## Lifetime Goals
 
