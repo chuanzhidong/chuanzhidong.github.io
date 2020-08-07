@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chuan-Zhi Dong"
+title                    : "Chuan-Zhi Dong (董传智)"
 title_separator          : "-"
 name                     : &name "Chuan-Zhi Dong"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Chuan-Zhi Dong"
   avatar           : "ChuanzhiDong.png"
-  bio              : "淡泊以明志，宁静以致远" 
+  bio              : "Keep our infrastructures safe and make our lives better." 
   location         : "Orlando, FL"
   employer         : "University of Central Florida"
   googlescholar    : "https://scholar.google.com/citations?user=Xs_dNn4AAAAJ&hl=en&authuser=1"
@@ -92,12 +92,12 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : chuanzhidong
+  github           : # chuanzhidong
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/chuan-zhi-dong-%E8%91%A3%E4%BC%A0%E6%99%BA-b9a7b615b/"
+  linkedin         : "linkedin.com/in/chuan-zhi-dong-董传智-b9a7b615b"
   orcid            : "http://orcid.org/0000-0001-6010-2859"
   pinterest        :
   soundcloud       :
@@ -110,6 +110,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  ResearchGate     : "https://www.researchgate.net/profile/Chuan_Zhi_Dong"
 
 
 # Reading Files
