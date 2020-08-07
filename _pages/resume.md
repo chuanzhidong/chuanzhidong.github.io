@@ -117,7 +117,7 @@ Professional Membership & Services
   * Mechanical Systems and Signal Processing
   * Sensors
   * Applied Science
-  * Journal of Performance of Constructed Facilities (ASCE)
+  * Journal of Performance of Constructed Facilities, ASCE
   * Frontiers in Built Environment: Review Editor in the Editorial Board
   * Experimental Techniques
   * International Journal of Advanced Manufacturing Technology
