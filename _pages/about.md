@@ -10,7 +10,7 @@ redirect_from:
 
 ## About Me
 
-I am currently a Postdoctoral Research Associate in the Department of Civil, Environmental, and Construction Engineering at the University of Central Florida. I am advised by Professor [F. Necati Catbas](https://www.cece.ucf.edu/catbas/) and am a research associate in the [Laboratory for Civil Infrastructure Technologies for Resilience and Safety (CITRS)](https://www.cece.ucf.edu/CITRS/) at the University of Central Florida. 
+I currently work as the Postdoctoral Research Associate in the Department of Civil, Environmental, and Construction Engineering at the University of Central Florida. I am advised by Professor [F. Necati Catbas](https://www.cece.ucf.edu/catbas/) and am a research associate in the [Laboratory for Civil Infrastructure Technologies for Resilience and Safety (CITRS)](https://www.cece.ucf.edu/CITRS/) at the University of Central Florida. 
 
 My research is using computer vision to evaluate the structural behavior and assess structural condition in global level. His research interests are vision-based displacement measurement, load estimation, modal analysis, structural identification, damage detection, human comfortable analysis, vibration serviceability and bridge load rating. What he is developing is a full version of computer vision-based structural health monitoring framework which combines input-output (loads and responses) information from images. Chuan-Zhi' goal is to utilize mechanics knowledge, advanced sensing technologies, computer vision, machine learning and signal processing to do structural health monitoring and support decision making for owners to do better structural management and maintenance.
 
