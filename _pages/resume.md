@@ -24,15 +24,15 @@ Employment Experience
 ------
 * Postdoctoral Research Associate, Dec. 2019 - Present
   * Laboratory for Civil Infrastructure Technologies for Resilience & Safety (CITRS), University of Central Florida, Orlando, FL
-    * Conducting structural health monitoring and structural behavior analysis using computer vision technology.
+    * Conducting structural health monitoring and structural behavior analysis using computer vision technology, UAV, and other sensing techniques.
     * Developing on-board railway track condition monitoring systems using sensor fusion technology.
     * Writing proposals to National Science Foundation (NSF) and U.S./States Department of Transportation.
 
 * Research Assistant, Aug. 2016 - Dec. 2019
   * Laboratory for Civil Infrastructure Technologies for Resilience & Safety (CITRS), University of Central Florida, Orlando, FL
-    * Investigating the structural behavior of bridges and stadiums using computer vision techniques, including vibration monitoring, load estimation, structural identification, damage detection, structures modelling and load rating.
-    * Carrying out research on human induced vibrations of bridge structures and stadiums monitoring using computer vision and assessing vibration serviceability.
-    * Guiding undergraduates to do finite element model analysis, loading test, vibration monitoring and modal analysis.
+    * Investigated the structural behavior of bridges and stadiums using computer vision techniques, including vibration monitoring, load estimation, structural identification, damage detection, structures modelling and load rating.
+    * Carried out research on human induced vibrations of bridge structures and stadiums monitoring using computer vision and assessing vibration serviceability.
+    * Guided undergraduates to do finite element model analysis, loading test, vibration monitoring and modal analysis.
   
 * Research Assistant, May 2012 - Aug. 2016
   * College of Civil Engineering and Architecture, Zhejiang University, Hangzhou, China.
