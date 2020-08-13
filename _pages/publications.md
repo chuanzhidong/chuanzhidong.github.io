@@ -17,13 +17,13 @@ Publications
 * Journal Articles:
   * **Dong, C.Z.**, and Catbas, F.N. (2020), “A review of computer vision-based structural health monitoring at local and global level”, Structural Health Monitoring, 1-52, DOI: 10.1177/1475921720935585 
   * **Dong, C.Z.**, Celik, O., and Catbas, F.N. (2019), “Marker free monitoring of the grandstand structures and modal identification using computer vision methods”, Structural Health Monitoring, 18(5-6), 1491-1509.
+  * **Dong, C.Z.**, Bas, S., and Catbas, F.N. (2020), “Investigation of vibration serviceability of a footbridge using computer vision-based methods”, Engineering Structures. (Accepted)
+  * **Dong, C.Z.**, Bas, S., and Catbas, F.N. (2020), “A portable monitoring approach using cameras and computer vision for bridge load rating in smart cities”, Journal of Civil Structural Health Monitoring. (Accepted)
   * **Dong, C.Z.**, Bas, S., and Catbas, F.N. (2019), “A Completely Non-Contact Recognition System for Bridge Unit Influence Line Using Portable Cameras and Computer Vision”, Smart Structures and Systems, 24(5), 617-630. 
   * **Dong, C.Z.**, Celik, O., Catbas, F.N., O’Brien, E., and Taylor, S. (2019), “Structural Displacement Monitoring Using Deep Learning-based Full Field Optical Flow Methods”, Structure and Infrastructure Engineering, 16(1), 51-71. 
   * **Dong, C.Z.**, Celik, O., Catbas, F.N., O’Brien, E., and Taylor, S. (2019), “A Robust Vision-based Method for Displacement Measurement under Adverse Environmental Factors using Spatio-Temporal Context Learning and Taylor Approximation”, Sensors, 19(14), 3197. 
   * **Dong, C.Z.** and Catbas, F.N. (2019), “A non-target structural displacement measurement method using advanced feature matching strategy”, Advances in Structural Engineering, 22(16), 3461-3472. 
   * **Dong, C.Z.**, Bas, S., Debees, M., Alver, N. and Catbas, F.N. (2019), “Structural condition assessment of a highway bridge through static and dynamic load tests”, Frontiers in Built Environment, 2019. 6, Article 46, DOI: 10.3389/fbuil.2020.00046.
-  * **Dong, C.Z.**, Bas, S., and Catbas, F.N. (2020), “Investigation of vibration serviceability of a footbridge using computer vision-based methods”, Engineering Structures. Under review. 
-  * **Dong, C.Z.**, Bas, S., and Catbas, F.N. (2020), “A portable monitoring approach using cameras and computer vision for bridge load rating in smart cities”, Journal of Civil Structural Health Monitoring.
   * **Dong, C.Z.**, Ye, X.W., and Jin, T. (2018), “Identification of structural dynamic characteristics based on machine vision technology”, Measurement, 126, 405-416.
   * Bas, S., **Dong, C.Z.**, Apaydin, N.M., Ilki, A., and Catbas, F.N. (2020), “Hanger Replacement Influence on Seismic Response of Suspension Bridges: Implementation to the Bosphorus Bridge subjected to Multi-Support Excitation”, Earthquake Engineering and Structural Dynamics. DOI: 10.1002/eqe.3314.
   * Celik, O., **Dong, C.Z.**, and Catbas, F.N. (2020), “Investigation of Human Induced Excitations using Hybrid Multivariate Empirical Mode Decomposition”, Journal of Structural Engineering, ASCE. 146(4), 04020019.
