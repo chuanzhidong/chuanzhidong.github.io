@@ -16,7 +16,7 @@ Education
   <!-- * Advisor: Prof. F. Necati Catbas -->
 * M.Sc., Bridge and Tunnel Engineering, 2013 - 2016
   * Zhejiang University, Hangzhou, China
-* B.S., Engineering Management, 2007 - 2011
+* B.S., Engineering Management (Civil Engineering Track), 2007 - 2011
   * Zhejiang Gongshang University, Hangzhou, China
   
 
@@ -25,23 +25,25 @@ Employment Experience
 * Postdoctoral Research Associate, Dec. 2019 - Present
   * Laboratory for Civil Infrastructure Technologies for Resilience & Safety (CITRS), University of Central Florida, Orlando, FL
     * Conducting structural health monitoring and structural behavior analysis using computer vision technology, UAV, and other sensing techniques.
+    * Develop bridge traffic load detection and localization using computer vision technology and UAV.
+    * Develop crack segmentation at pixel-level and structural condition assessment using computer vision.
     * Developing on-board railway track condition monitoring systems using sensor fusion technology.
     * Writing proposals to National Science Foundation (NSF) and U.S./States Department of Transportation.
 
 * Research Assistant, Aug. 2016 - Dec. 2019
   * Laboratory for Civil Infrastructure Technologies for Resilience & Safety (CITRS), University of Central Florida, Orlando, FL
-    * Investigated the structural behavior of bridges and stadiums using computer vision techniques, including vibration monitoring, load estimation, structural identification, damage detection, structures modelling and load rating.
-    * Carried out research on human induced vibrations of bridge structures and stadiums monitoring using computer vision and assessing vibration serviceability.
+    * Investigated the structural behavior of bridges and stadia using computer vision techniques, including vibration monitoring, load estimation, structural identification, damage detection, structures modelling and load rating.
+    * Carried out research on human induced vibrations of bridge structures and stadia monitoring using computer vision, and vibration serviceability assessment.
     * Guided undergraduates to do finite element model analysis, loading test, vibration monitoring and modal analysis.
   
 * Research Assistant, May 2012 - Aug. 2016
   * College of Civil Engineering and Architecture, Zhejiang University, Hangzhou, China.
     * Carried out research on structural health monitoring and cable vibration control.
-    * Build a scale cable-stayed bridge model and its structural health monitoring system and conduct regular data analysis.
-    * Improved the elasto-magnetic effect based total stress monitoring method for stayed cable and prestressed steel strands, and install sensors in the actual engineering projects.
-    * Carried out structural mechanical experiments and bridge inspection.
-    * Developed the machine vision technology and its application in the field of civil engineering.
-    * Developed the virtual simulation experiment platform for the lab.
+    * Built a scaled model of a cable-stayed bridge, implemented the structural health monitoring system on it and conducted experiments and structural evaluation.
+    * Developed the Elasto-Magnetic effect based total stress monitoring method for stayed cable and prestressed steel tendons, and applied on actual engineering projects.
+    * Carried out load test and inspection on real bridges.
+    * Developed the computer vision technology for civil structural monitoring and applied it on real structures.
+    * Developed a virtual simulation experiment platform for the lab.
 
 * Teaching Assistant, Sep. 2014 - Jun. 2016
   * College of Civil Engineering and Architecture, Zhejiang University, Hangzhou, China.
@@ -55,12 +57,12 @@ Project Involved
 * NASA Project: Reliability-based bridge inspection and monitoring.
 * NASA bridge condition assessment and load testing project.
 * NSF Innovation Corps (I-Corps) research.
-* Vibration monitoring, human load estimation and human comfortable analysis of footbridge and stadiums. 
+* Vibration monitoring, human load estimation and human comfortable analysis of footbridge and stadium. 
 * Research on machine vision-based bridge health monitoring and condition assessment: method development, system establishment, experimental verification, data process and analysis.
 * Research on management and maintenance for the Jiubao Bridge (China) structural health monitoring system.
-* Research on bridge and tunnel inspection and condition assessment using normal methods.
+* Bridge and tunnel inspection and condition assessment.
 * Development and application of stayed cable stress monitoring system on the Second Jiaojiang Bridge, China.
-* Research on externally prestressed tendon stress loss monitoring method on Quanzhou Bay Cross sea Bridge, China.
+* Research on externally prestressed tendon stress loss monitoring on Quanzhou Bay Cross Sea Bridge, China.
 * Quality monitoring and control of bridge prestressing tendons stretching on in Wenling, Taizhou, China.
 * Research on the virtual simulation experiment platform, machine vision and machine learning, Zhejiang University, China.
 
