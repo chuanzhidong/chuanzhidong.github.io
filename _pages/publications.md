@@ -29,7 +29,7 @@ Publications
   * Celik, O., **Dong, C.Z.**, and Catbas, F.N. (2020), “Investigation of Human Induced Excitations using Hybrid Multivariate Empirical Mode Decomposition”, Journal of Structural Engineering, ASCE. 146(4), 04020019.
   * Celik, O., **Dong, C.Z.**., and Catbas, F.N. (2020), “Computer Vision Based Human Comfort Assessment of Stadia”, Journal of Performance of Constructed Facilities, ASCE, 34(2), 0402005.
   * Celik, O., **Dong, C.Z.**, and Catbas, F.N. (2018), “A computer vision approach for the load time history estimation of lively individuals and crowds”, Computers & Structures, 200(15), 32-52.
-  * Ye, X.W., **Dong, C.Z.**, and Liu, T. (2016), “Force monitoring of steel cables using vision-based sensing technology: methodology and experimental verification”, Smart Structures and Systems, 8(3), 585-599. 
+  * Ye, X.W., **Dong, C.Z.**, and Liu, T. (2016), “Force monitoring of steel cables using vision-based sensing technology: methodology and experimental verification”, Smart Structures and Systems, 18(3), 585-599. 
   * Ye, X.W., **Dong, C.Z.**, and Liu, T. (2016), “Image-based structural dynamic displacement measurement using different multi-object tracking algorithms”, Smart Structures and Systems, 17(6), 935-956. 
   * Ye, X.W., **Dong, C.Z.**, and Liu, T. (2016), “A Review of Machine Vision-based Structural Health Monitoring: Methodologies and Applications”, Journal of Sensors, 2016, 7103039. 
   * Ye, X.W., Yi, T.H., **Dong, C.Z.**, Liu, T., and Bai, H. (2015), “Multi-point displacement monitoring of bridges using a vision-based approach”, Wind and Structures, 20(2), 315-326. 
