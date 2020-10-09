@@ -24,17 +24,19 @@ Employment Experience
 ------
 * Postdoctoral Research Associate, Dec. 2019 - Present
   * Laboratory for Civil Infrastructure Technologies for Resilience & Safety (CITRS), University of Central Florida, Orlando, FL
-    * Conducting structural health monitoring and structural behavior analysis using computer vision technology, UAV, and other sensing techniques.
+    * Conduct structural health monitoring and structural behavior analysis using computer vision technology, UAV, and other sensing techniques.
     * Develop bridge traffic load detection and localization using computer vision technology and UAV.
     * Develop crack segmentation at pixel-level and structural condition assessment using computer vision.
-    * Developing on-board railway track condition monitoring systems using sensor fusion technology.
-    * Writing proposals to National Science Foundation (NSF) and U.S./States Department of Transportation.
+    * Develop on-board railway track condition monitoring systems using sensor fusion technology.
+    * Write proposals to National Science Foundation (NSF) and U.S./States Department of Transportation. 
+
 
 * Research Assistant, Aug. 2016 - Dec. 2019
   * Laboratory for Civil Infrastructure Technologies for Resilience & Safety (CITRS), University of Central Florida, Orlando, FL
     * Investigated the structural behavior of bridges and stadia using computer vision techniques, including vibration monitoring, load estimation, structural identification, damage detection, structures modelling and load rating.
     * Carried out research on human induced vibrations of bridge structures and stadia monitoring using computer vision, and vibration serviceability assessment.
     * Guided undergraduates to do finite element model analysis, loading test, vibration monitoring and modal analysis.
+
   
 * Research Assistant, May 2012 - Aug. 2016
   * College of Civil Engineering and Architecture, Zhejiang University, Hangzhou, China.
@@ -43,7 +45,8 @@ Employment Experience
     * Developed the Elasto-Magnetic effect based total stress monitoring method for stayed cable and prestressed steel tendons, and applied on actual engineering projects.
     * Carried out load test and inspection on real bridges.
     * Developed the computer vision technology for civil structural monitoring and applied it on real structures.
-    * Developed a virtual simulation experiment platform for the lab.
+    * Developed the virtual simulation experiment platform for the lab.
+
 
 * Teaching Assistant, Sep. 2014 - Jun. 2016
   * College of Civil Engineering and Architecture, Zhejiang University, Hangzhou, China.
@@ -95,12 +98,14 @@ Selected Coursework
 
 Honors & Awards
 ------
-* The CECS’s 2019 Outstanding Dissertation Award by College of Engineering and Computer Science, University of Central Florida. 2019.
-* The Bronze award of the 44th International Exhibition of Inventions of Geneva, 13-17 April 2016, Geneva, Switzerland.
-* The first prize of student paper competition at the 6th Cross-strait Symposium on Structural Monitoring and Control in Civil Engineering, 13-17 August 2015, Xiamen, China.
-* The Second prize of the first Traffic-Future College Students Creative Works Competition, 22 April 2016, Chengdu, China.
-* The 2016 graduate scholarship of College of Civil Engineering and Architecture, Zhejiang University.
-* Award of Honor for Graduate, Graduate of Merit/Triple A graduate, first special scholarship of Huahui Lingyan fund, Zhejiang University.
+* Receipt of the CECS’s 2019 Outstanding Dissertation Award by College of Engineering and Computer Science (CECS), University of Central Florida (UCF).
+* Receipt of UCF Graduate Presentation Fellowship (2017-2019 academic years, three times).
+* Receipt of the Bronze award of the 44th International Exhibition of Inventions of Geneva, 13-17 April 2016, Geneva, Switzerland.
+* Receipt of the Second prize of the first Traffic-Future College Students Creative Works Competition, 22 April 2016, Chengdu, China.
+* Receipt of the 2016 graduate scholarship of College of Civil Engineering and Architecture, Zhejiang University.
+* Receipt of the first prize of student paper competition at the 6th Cross-strait Symposium on Structural Monitoring and Control in Civil Engineering, 13-17 August 2015, Xiamen, China.
+* Receipt of Award of Honor for Graduate, Graduate of Merit/Triple A graduate, first special scholarship of Huahui Lingyan fund, Zhejiang University.
+
 
 
 Professional Membership & Services
@@ -117,11 +122,13 @@ Professional Membership & Services
   * Structural Health Monitoring
   * Structural Control and Health Monitoring
   * Mechanical Systems and Signal Processing
-  * Sensors
-  * Applied Science
+  * Structure and Infrastructure Engineering
   * Journal of Performance of Constructed Facilities, ASCE
   * Frontiers in Built Environment: Review Editor in the Editorial Board
   * Experimental Techniques
+  * Sensors
+  * Applied Science
+  * Infrastructures
   * International Journal of Advanced Manufacturing Technology
   * Scientific Report
 
