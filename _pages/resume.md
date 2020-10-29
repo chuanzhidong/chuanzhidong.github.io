@@ -122,6 +122,7 @@ Professional Membership & Services
   * Structural Health Monitoring
   * Structural Control and Health Monitoring
   * Mechanical Systems and Signal Processing
+  * Measurement, Journal of the International Measurement Confederation 
   * Structure and Infrastructure Engineering
   * Journal of Performance of Constructed Facilities, ASCE
   * Frontiers in Built Environment: Review Editor in the Editorial Board
