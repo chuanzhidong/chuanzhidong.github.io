@@ -22,7 +22,7 @@ Education
 
 Employment Experience
 ------
-* Postdoctoral Research Associate, Dec. 2019 - Present
+* Postdoctoral Scholar, Dec. 2019 - Present
   * Laboratory for Civil Infrastructure Technologies for Resilience & Safety (CITRS), University of Central Florida, Orlando, FL
     * Conduct structural health monitoring and structural behavior analysis using computer vision technology, UAV, and other sensing techniques.
     * Develop bridge traffic load detection and localization using computer vision technology and UAV.

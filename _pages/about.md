@@ -10,7 +10,7 @@ redirect_from:
 
 ## About Me
 
-I currently work as the Postdoctoral Research Associate in the Department of Civil, Environmental, and Construction Engineering at the University of Central Florida. I am advised by Professor [F. Necati Catbas](https://www.cece.ucf.edu/catbas/). In the mean time, I am a research associate in the [Laboratory for Civil Infrastructure Technologies for Resilience and Safety (CITRS)](https://www.cece.ucf.edu/CITRS/) at the University of Central Florida. 
+I currently work as the Postdoctoral Scholar in the Department of Civil, Environmental, and Construction Engineering at the University of Central Florida. I am advised by Professor [F. Necati Catbas](https://www.cece.ucf.edu/catbas/). In the mean time, I am a research associate in the [Laboratory for Civil Infrastructure Technologies for Resilience and Safety (CITRS)](https://www.cece.ucf.edu/CITRS/) at the University of Central Florida. 
 
 My research is using computer vision to evaluate the structural behaviors and conduct the structural condition assessment at global level. My research interests are vision-based displacement measurement, load estimation, modal analysis, structural identification, damage detection, human comfort analysis, vibration serviceability assessment and bridge load rating. What I am developing is a full version of computer vision-based structural monitoring and evaluation framework which combines the input-output information from images (loads and responses) to assess the performance and condition of structures. My goal is to utilize mechanics knowledge, advanced sensing technologies, computer vision, machine learning, deep learning and signal processing techniques to conduct structural health monitoring and support decision making for owners to do better structural management and maintenance.
 
@@ -20,7 +20,7 @@ My research is using computer vision to evaluate the structural behaviors and co
 
 ## Goals for the Near Future
 
-* Seeking for a faculty job (assistant professor) in a university.
+* Seeking for a faculty job in a university.
 * Converting my research findings into really useful products or tools for the researchers or engineering practioners in the area of civil infrastructure monitoring and condition assessment. 
 
 ## Lifetime Goals
