@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chuan-Zhi Dong, Ph.D."
+title                    : "Chuan-Zhi Dong (董传智)"
 title_separator          : "-"
-name                     : &name "Chuan-Zhi Dong (董传智)"
+name                     : &name "Chuan-Zhi Dong, Ph.D."
 description              : &description "personal description"
 url                      : https://chuanzhidong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chuan-Zhi Dong (董传智)"
+  name             : "Chuan-Zhi Dong, Ph.D."
   avatar           : "ChuanzhiDong.jpg"
   bio              : "Keep our infrastructures safe and make our lives better." 
   location         : "Orlando, FL"
