@@ -98,6 +98,7 @@ Selected Coursework
 
 Honors & Awards
 ------
+* Receipt of the First Prize of the 1st International Project Competition for Structural Health Monitoring.
 * Receipt of the CECS’s 2019 Outstanding Dissertation Award by College of Engineering and Computer Science (CECS), University of Central Florida (UCF).
 * Receipt of UCF Graduate Presentation Fellowship (2017-2019 academic years, three times).
 * Receipt of the Bronze award of the 44th International Exhibition of Inventions of Geneva, 13-17 April 2016, Geneva, Switzerland.
