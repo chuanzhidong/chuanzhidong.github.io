@@ -20,7 +20,7 @@ My research is using computer vision to evaluate the structural behaviors and co
 
 ## Goals for the Near Future
 
-* Seeking for a faculty job in a university.
+* Seeking for a research job.
 * Converting my research findings into really useful products or tools for the researchers or engineering practioners in the area of civil infrastructure monitoring and condition assessment. 
 
 ## Lifetime Goals

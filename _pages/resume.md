@@ -115,8 +115,8 @@ Professional Membership & Services
   * Associate member of American Society of Civil Engineers (ASCE)
   * Committee member of Society for Experimental Mechanics (SEM): Dynamics of Civil Structures Technical Division
   * Committee member of Society for Experimental Mechanics (SEM): Optical Methods Technical Division
-  * Member, Transportation Research Board Committee of National Academies of Science and Engineering: Committee AFF 40 Field testing and NDE of Transportation Structures
-  * Member, Transportation Research Board Committee of National Academies of Science and Engineering – Sub Committee: Non-Destructive Evaluation of Structures
+  * Involved in Transportation Research Board Committee of National Academies of Science and Engineering: Committee AFF 40 Field testing and NDE of Transportation Structures
+  * Involved in Transportation Research Board Committee of National Academies of Science and Engineering – Sub Committee: Non-Destructive Evaluation of Structures
 
 * Journal Referee and Service
   * Journal of Structural Engineering, ASCE
@@ -132,7 +132,6 @@ Professional Membership & Services
   * Applied Science
   * Infrastructures
   * International Journal of Advanced Manufacturing Technology
-  * Scientific Report
 
 * Certificate
   * “Theory, Experiments & Application for Structure Monitoring & Machine Learning – Design, Build & Analyze Real Data Using Low Cost Sensors” course completion certificated by Society for Experimental Mechanics
