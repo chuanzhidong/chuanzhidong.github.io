@@ -22,7 +22,13 @@ Education
 
 Employment Experience
 ------
-* Postdoctoral Scholar, Dec. 2019 - Present
+
+* Structural & Analytics Engineer, May 2021 - Present
+  * Internet of Things (IoT) Tower, Palo Alto Research Center Inc (PARC, a Xerox company)
+    * Fiber optical sensor-based Structural Health Monitoring system design
+    * Bridge condition assessment and load rating
+
+* Postdoctoral Scholar, Dec. 2019 - May 2021
   * Laboratory for Civil Infrastructure Technologies for Resilience & Safety (CITRS), University of Central Florida, Orlando, FL
     * Conduct structural health monitoring and structural behavior analysis using computer vision technology, UAV, and other sensing techniques.
     * Develop bridge traffic load detection and localization using computer vision technology and UAV.
