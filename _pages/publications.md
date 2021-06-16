@@ -15,7 +15,8 @@ Publications
 ------
 
 * Journal Articles:
-  * Lydon, D., Lydon, M., Kromanis, R., **Dong, C.Z.**, Catbas, F.N., and Taylor, S. (2021), “Bridge damage detection approach using a roving camera technique”, Sensors, 21, 1246. DOI: 10.3390/s21041246
+  * **Dong, C.Z.**, Li, L., Yan, J., Zhang, Z., Pan, H. and Catbas, F.N. (2021), "Pixel-level fatigue crack segmentation in large-scale images of steel structures using an encoder–decoder network", Sensors, 21(12), 4135. https://www.mdpi.com/1424-8220/21/12/4135/htm
+  * Lydon, D., Lydon, M., Kromanis, R., **Dong, C.Z.**, Catbas, F.N., and Taylor, S. (2021), “Bridge damage detection approach using a roving camera technique”, Sensors, 21(4), 1246. DOI: 10.3390/s21041246
   * Zhang, Z., Yan, J., Li, L., Pan, H., and **Dong, C.Z.** (2021), “Condition assessment of stay cables through enhanced time series classification using a deep learning approach”, arXiv: 2101.03701.
   * **Dong, C.Z.**, and Catbas, F.N. (2021), “A review of computer vision-based structural health monitoring at local and global level”, Structural Health Monitoring, 20(2), 692-743. https://doi.org/10.1177/1475921720935585
   * **Dong, C.Z.**, Bas, S., and Catbas, F.N. (2020), “Investigation of vibration serviceability of a footbridge using computer vision-based methods”, Engineering Structures, 224, 111224. https://doi.org/10.1016/j.engstruct.2020.111224
