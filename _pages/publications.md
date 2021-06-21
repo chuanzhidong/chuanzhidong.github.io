@@ -11,10 +11,10 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 
 {% include base_path %}
 
-Publications
+**PUBLICATIONS**
 ------
 
-* Journal Articles:
+* **Journal Articles**:
   * **Dong, C.Z.**, Li, L., Yan, J., Zhang, Z., Pan, H. and Catbas, F.N. (2021), "Pixel-level fatigue crack segmentation in large-scale images of steel structures using an encoder–decoder network", Sensors, 21(12), 4135. https://www.mdpi.com/1424-8220/21/12/4135/htm
   * Lydon, D., Lydon, M., Kromanis, R., **Dong, C.Z.**, Catbas, F.N., and Taylor, S. (2021), “Bridge damage detection approach using a roving camera technique”, Sensors, 21(4), 1246. DOI: 10.3390/s21041246
   * Zhang, Z., Yan, J., Li, L., Pan, H., and **Dong, C.Z.** (2021), “Condition assessment of stay cables through enhanced time series classification using a deep learning approach”, arXiv: 2101.03701.
@@ -45,7 +45,7 @@ Publications
   * **Dong, C.Z.**, Guo, L., Pang, G.Y., Chen, H.W., Duan, Y.F., and Zhou, C.B. (2016), “Elasto-magnetic effect based total stress monitoring of internal prestressing tendons: experimental investigation and engineering application”, Structural Engineers, 32(4), 74-79. (in Chinese)
   * Pang, G.Y., **Dong, C.Z.**, Duan, Y.F., and Zhou, C.B. (2015), “Elasto-magnetic effect based total stress monitoring of prestressed streel strands: experimental investigation”, Structural Engineers, 31(4), 192-198. (in Chinese)
 
-* Conference Papers and Presentations:
+* **Conference Papers and Presentations**:
   * **Dong, C.Z.**, and Catbas, F.N. (2020), “A Full Version of Computer Vision-based Structural Health Monitoring”, Presentation on IMAC 38: It's Not Just Modal Anymore, Space Technologies for Humanity, February 10-13, 2020, Houston, Texas.
   * **Dong, C.Z.**, Bas, S. and Catbas, F.N. (2020), “Load testing and rating bridges using computer vision”, Presentation TRB Annual Meeting, January 12-16, 2020, Washington, D.C.
   * **Dong, C.Z.**, and Catbas, F.N. (2019), “A Full Version of Vision-based Structural Identification”, Proceedings of the Experimental Vibration Analysis for Civil Engineering Structures (EVACES 2019), September 5-8, 2019, Nanjing, China.
@@ -77,10 +77,14 @@ Publications
   * Duan, Y.F., Zhang, R., **Dong, C.Z.**, Or, S.W., Zhao, Y., and Fan, K.Q. (2014), “Elasto-Magneto-Electric (EME) sensor for in-service cable force monitoring”, Proceedings of the 5th Asia-Pacific Workshop on Structural Health Monitoring, December 4-5, 2014, Shenzhen, China (CD-ROM).
   * Duan, Y.F., Zhang, R., **Dong, C.Z.**, Or, S.W., and Zhao, Y. (2014), “Elasto-Magneto-Electric (EME) sensor for in-service cable force monitoring on the Second Jiaojiang Cable-Stayed Bridge”, Proceedings of the 6th World Conference on Structural Control and Monitoring, July 15-17, 2014, Barcelona, Spain (CD-ROM).
 
-* Book Chapter:
+* **Invited Presentations:**
+  Dong, C.Z. (2021), “Computer vision based structural health monitoring and identification applications”, at University of Exeter, UK, May 12, 2021.
+
+
+* **Book Chapter:**
   * Ye, X.W., Liu, T., **Dong, C.Z.**, and Chen, B. (2016), “FBG-based structural performance monitoring and safety evaluation of a composite arch bridge”, Structural Health Monitoring of Composite Structures: Using Fiber Optic Methods, CRC Press.
 
-* Patents and Copyrights:
+* **Patents and Copyrights:**
   * Ye, X.W. **Dong, C.Z.**, and Liu, T. (2016), “Quasi distributed structure displacement optical measurement method”, Chinese Patent, National Copyright Administration of the People’s Republic of China. 
   * Ye, X.W. **Dong, C.Z.**, and Liu, T. (2016), “A computer vision based cable distribution stress on-line monitoring method”, Chinese Patent, National Copyright Administration of the People’s Republic of China. 
   * Ye, X.W. **Dong, C.Z.**, and Liu, T. (2017), “Automatic detecting and early warning method for track foreign matter invasion based on Internet of Things technology”, Chinese Patent, National Copyright Administration of the People’s Republic of China. 
