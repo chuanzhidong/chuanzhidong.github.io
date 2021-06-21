@@ -57,10 +57,10 @@ redirect_from:
 
 **PROJECT INVOLVED**
 ------
-* NSF Project: US-Ireland Partnership Program: Bridge Health Monitoring Using Cameras and Computer Vision methods. Key partners: UCF (USA); UCD (Ireland); and QUB (UK).
-* NASA Project: Reliability-Based Bridge Inspection Framework using Non-destructive Evaluation (NDE) and Structural Health Monitoring (SHM) for Effective and Efficient Asset Maintenance
-* NASA Project: Bridge load testing, load rating and condition assessment of Indian River Bridge.
-* NSF Innovation Corps (I-Corps) Program.
+* **NSF Project**: US-Ireland Partnership Program: Bridge Health Monitoring Using Cameras and Computer Vision methods. Key partners: UCF (USA); UCD (Ireland); and QUB (UK).
+* **NASA Project**: Reliability-Based Bridge Inspection Framework using Non-destructive Evaluation (NDE) and Structural Health Monitoring (SHM) for Effective and Efficient Asset Maintenance
+* **NASA Project**: Bridge load testing, load rating and condition assessment of Indian River Bridge.
+* **NSF Innovation Corps (I-Corps)** Program.
 
 
 
