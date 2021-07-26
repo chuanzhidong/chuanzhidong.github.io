@@ -106,6 +106,7 @@ redirect_from:
 ------
 * **Academic Services**
   * Associate member of American Society of Civil Engineers (ASCE)
+  * Member of Society for Experimental Mechanics (SEM)
   * Secretary of Computer Vision and Laser Vibrometry Technical Division of Society for Experimental Mechanics (SEM)
   * Committee member of Dynamics of Civil Structures Technical Division of Society for Experimental Mechanics (SEM)
   * Friend of Transportation Research Board (TRB) Committee of National Academies of Science and Engineering: Committee AFF 40 Field testing and NDE of Transportation Structures
@@ -117,19 +118,21 @@ redirect_from:
   * Structural Health Monitoring
   * Structural Control and Health Monitoring
   * Mechanical Systems and Signal Processing
+  * Automation in Construction
+  * Structures
   * Measurement, Journal of the International Measurement Confederation 
   * Structure and Infrastructure Engineering
-  * Journal of Performance of Constructed Facilities, ASCE
-  * Structures
-  * Smart Structures and Systems
-  * Frontiers in Built Environment: Review Editor in the Editorial Board
-  * Experimental Techniques
   * Sensors
-  * Applied Science
+  * Journal of Performance of Constructed Facilities, ASCE
+  * Smart Structures and Systems
+  * Experimental Techniques
+  * Sustainability
   * Infrastructures
-  *	Sustainability
-  * Vibrations
+  * Applied Science
   * International Journal of Advanced Manufacturing Technology
+  * Frontiers in Built Environment
+  * Vibrations
+
 
 * **Certificate**
   * “Theory, Experiments & Application for Structure Monitoring & Machine Learning – Design, Build & Analyze Real Data Using Low Cost Sensors” course completion certificated by Society for Experimental Mechanics (IMAC37, Feb 2018)
