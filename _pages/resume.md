@@ -67,13 +67,13 @@ redirect_from:
 **PERSONAL SKILLS & COMPETENCES**
 ------
 * **Engineering software**
-  * SAP2000, CSiBridge, Midas Civil, COMSOL, Nastran, Abaqus, AutoCAD, Solidworks
+  * SAP2000, CSiBridge, Midas Civil, COMSOL,  ANSYS, Nastran, Abaqus, AutoCAD, Solidworks
 * **Programming/Tools**
   * C++, C#, Qt, Python, R, LabVIEW, MATLAB, SAS, Halcon, OpenCV, PyTorch
 * **Domain Knowledge**
-  * Structural Analysis, Advanced Sensing, Structural Identification, Bridges, Modal Testing, Computer Vision
+  * Structural Analysis, Advanced Sensing, Structural Identification, Bridges, Modal Testing and Analysis, Finite Element Method, Computer Vision
 * **Data Analysis**
-  * Data Mining, Machine Learning, Deep Learning, Signal Processing
+  * Data Mining, Statistics, Machine Learning, Deep Learning, Signal Processing
 
 
 
@@ -106,6 +106,7 @@ redirect_from:
 ------
 * **Academic Services**
   * Associate member of American Society of Civil Engineers (ASCE)
+  *	Member of Structural Engineering Institute (SEI), ASCE
   * Member of Society for Experimental Mechanics (SEM)
   * Secretary of Computer Vision and Laser Vibrometry Technical Division of Society for Experimental Mechanics (SEM)
   * Committee member of Dynamics of Civil Structures Technical Division of Society for Experimental Mechanics (SEM)
@@ -119,6 +120,7 @@ redirect_from:
   * Structural Control and Health Monitoring
   * Mechanical Systems and Signal Processing
   * Automation in Construction
+  * Engineering Structures
   * Structures
   * Measurement, Journal of the International Measurement Confederation 
   * Structure and Infrastructure Engineering
@@ -129,6 +131,7 @@ redirect_from:
   * Sustainability
   * Infrastructures
   * Applied Science
+  * Journal of Energy Storage
   * International Journal of Advanced Manufacturing Technology
   * Frontiers in Built Environment
   * Vibrations
