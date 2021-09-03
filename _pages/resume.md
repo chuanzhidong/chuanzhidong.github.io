@@ -12,7 +12,7 @@ redirect_from:
 **EDUCATION**
 ------
 * **Ph.D., University of Central Florida, USA, 2019**
-  * Civil Engineering (Structural Engineering Track), Advisor: Professor Professor [**F. Necati Catbas**](https://www.cece.ucf.edu/catbas/)
+  * Civil Engineering (Structural Engineering Track), Advisor: Prof. [**F. Necati Catbas**](https://www.cece.ucf.edu/catbas/)
 * **M.Sc., Zhejiang University, China, 2016**
   * Bridge and Tunnel Engineering
 * **B.S., Zhejiang Gongshang University, China, 2011**
