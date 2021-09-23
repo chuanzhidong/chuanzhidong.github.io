@@ -7,9 +7,6 @@ redirect_from:
   - /photovisuals
 ---
 
-* ![](./photovisuals_image/outstanding_dissertation_awards.jpg)
-* 2019 UCF CECS Outstanding Dissertation Awards
-
 <img src="./photovisuals_image/outstanding_dissertation_awards.jpg" alt="" style="height: 100px; width:100px;"/>
 
 ![](./photovisuals_image/osmanGazi.jpg)
