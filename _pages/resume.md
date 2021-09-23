@@ -131,6 +131,7 @@ redirect_from:
   * Sustainability
   * Infrastructures
   * Applied Science
+  * IET Image Processing
   * Journal of Energy Storage
   * International Journal of Advanced Manufacturing Technology
   * Frontiers in Built Environment
