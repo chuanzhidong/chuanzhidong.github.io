@@ -7,12 +7,14 @@ redirect_from:
   - /photovisuals
 ---
 
-![](photovisuals_image/outstanding dissertation awards.jpg)
+![](./photovisuals_image/outstanding_dissertation_awards.jpg)
 * 2019 UCF CECS Outstanding Dissertation Awards
 
-![](photovisuals_image/osmanGazi.jpg)
+<img src="./photovisuals_image/outstanding_dissertation_awards.jpg" alt="Getting started" />
+
+![](./photovisuals_image/osmanGazi.jpg)
 * Structural Monitoring at Osman Gazi Bridge
 
 
-![](photovisuals_image/2018_ucf_champion.jpg)
+![](./photovisuals_image/2018_ucf_champion.jpg)
 * 2018 UCF AAC Champion
