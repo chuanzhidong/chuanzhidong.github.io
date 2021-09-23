@@ -10,8 +10,8 @@ redirect_from:
 
 
 ![](./photovisuals_image/outstanding_dissertation_awards.jpg)
-* 2019 UCF CECS Outstanding Dissertation Awards
+* 2019 UCF CECS Outstanding Dissertation Award
 
 ![](./photovisuals_image/osmanGazi.jpg)
-* Structural Monitoring at Osman Gazi Bridge
+* Super Long Distance Bridge Monitoring using Camera and Computer Vision (Osman Gazi Bridge, Turky, 2018)
 
