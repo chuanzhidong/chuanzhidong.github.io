@@ -11,9 +11,9 @@ title                    : "Chuan-Zhi Dong (董传智)"
 title_separator          : "-"
 name                     : &name "Chuan-Zhi Dong, Ph.D."
 description              : &description "personal description"
-url                      : https://chuanzhidong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://www.chuanzhidong.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "chuanzhidong.github.io"
+repository               : "chuanzhidong.github.io" # https://chuanzhidong.github.io
 teaser                   : "ChuanzhiDong.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -85,7 +85,7 @@ author:
   employer         : "Palo Alto Research Center Inc"
   googlescholar    : "https://scholar.google.com/citations?user=Xs_dNn4AAAAJ&hl=en&authuser=1"
   email            : "ceczdong@knights.ucf.edu"
-  uri              : "https://chuanzhidong.github.io"
+  uri              : "https://www.chuanzhidong.com"
   bitbucket        :
   codepen          :
   dribbble         :
