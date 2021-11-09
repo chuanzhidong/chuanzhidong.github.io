@@ -16,9 +16,6 @@ I currently work as the Structural & Analytics Engineer in the Internet of Thing
 
 My research is using computer vision to evaluate the structural behaviors and conduct the structural condition assessment at global level. My research interests are vision-based displacement measurement, load estimation, modal analysis, structural identification, damage detection, human comfort analysis, vibration serviceability assessment and bridge load rating. What I am developing is a full version of computer vision-based structural monitoring and evaluation framework which combines the input-output information from images (loads and responses) to assess the performance and condition of structures. My goal is to utilize mechanics knowledge, advanced sensing technologies, computer vision, machine learning, deep learning and signal processing techniques to conduct structural health monitoring and support decision making for owners to do better structural management and maintenance.
 
-<!-- Working in the Materials Research Department, my responsibility  is to fulfill the requirement of materials informatics research in the group. Machine learning techniques are applied to analyze problems in materials science. Typical duties include: text mining data from literatures and patents; clarify the connection between different objects; statistically analyze the property-structure-process relation, etc.  -->
-
-<!-- A side quest of mine for this semester is to complete the [deep learning courses](https://www.deeplearning.ai/) offered by Andrew Ng on Coursera. Check it out if you are interested. Welcome to discuss! -->
 
 ## Goals for the Near Future
 

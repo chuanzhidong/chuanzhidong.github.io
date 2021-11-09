@@ -13,8 +13,12 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 
 **PUBLICATIONS**
 ------
+* ==***Selected Journal Articles***==
+  * Qin, J., Zhuang, Y., Chen, B., **Dong, C.Z.*/**, Xue, C., and Easa, S.M. (2021), “Data Loss Reconstruction Method for Bridge Weight-in-Motion System Using Generative Adversarial Network”, submitted to Sensors.
 
-* **Journal Articles**:
+* **Other Journal Articles**
+  * Qin, J., Zhuang, Y., Chen, B., **Dong, C.Z.*/**, Xue, C., and Easa, S.M. (2021), “Data Loss Reconstruction Method for Bridge Weight-in-Motion System Using Generative Adversarial Network”, submitted to Sensors.
+  * Hu, H., **Dong, C.Z.*/**, Wang, J.J., and Chen, J.Q. (2021), “Experimental study of the fatigue performance of the bonding surfaces and load bearing capacity of a large-scale severely damaged hollow slab strengthened by CFRP”, Sustainability, 13(21), 12179.
   * **Dong, C.Z.**, Li, L., Yan, J., Zhang, Z., Pan, H. and Catbas, F.N. (2021), "Pixel-level fatigue crack segmentation in large-scale images of steel structures using an encoder–decoder network", Sensors, 21(12), 4135. https://www.mdpi.com/1424-8220/21/12/4135/htm
   * Lydon, D., Lydon, M., Kromanis, R., **Dong, C.Z.**, Catbas, F.N., and Taylor, S. (2021), “Bridge damage detection approach using a roving camera technique”, Sensors, 21(4), 1246. DOI: 10.3390/s21041246
   * Zhang, Z., Yan, J., Li, L., Pan, H., and **Dong, C.Z.** (2021), “Condition assessment of stay cables through enhanced time series classification using a deep learning approach”, arXiv: 2101.03701. (Accepted by Smart Structures and Systems)

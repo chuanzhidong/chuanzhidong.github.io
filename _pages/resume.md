@@ -122,7 +122,8 @@ redirect_from:
   * Automation in Construction
   * Engineering Structures
   * Structures
-  * Measurement, Journal of the International Measurement Confederation 
+  * Measurement, Journal of the International Measurement Confederation
+  * Journal of Civil Structural Health Monitoring 
   * Structure and Infrastructure Engineering
   * Sensors
   * Journal of Performance of Constructed Facilities, ASCE
