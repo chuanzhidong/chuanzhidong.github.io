@@ -54,7 +54,6 @@ redirect_from:
 
 
 
-
 **PROJECT INVOLVED**
 ------
 * **NSF Project**: US-Ireland Partnership Program: Bridge Health Monitoring Using Cameras and Computer Vision methods. Key partners: UCF (USA); UCD (Ireland); and QUB (UK).
@@ -125,17 +124,17 @@ redirect_from:
   * Measurement, Journal of the International Measurement Confederation
   * Journal of Civil Structural Health Monitoring 
   * Structure and Infrastructure Engineering
-  * Sensors
   * Journal of Performance of Constructed Facilities, ASCE
   * Smart Structures and Systems
   * Experimental Techniques
-  * Sustainability
-  * Infrastructures
-  * Applied Science
+  * Sensors
   * IET Image Processing
   * Journal of Energy Storage
   * International Journal of Advanced Manufacturing Technology
   * Frontiers in Built Environment
+  * Infrastructures
+  * Applied Science
+  * Sustainability
   * Vibrations
 
 

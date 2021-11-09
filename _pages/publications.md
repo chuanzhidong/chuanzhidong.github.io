@@ -14,20 +14,20 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 **PUBLICATIONS**
 ------
 * ==***Selected Journal Articles***==
-  * Qin, J., Zhuang, Y., Chen, B., **Dong, C.Z.*/**, Xue, C., and Easa, S.M. (2021), “Data Loss Reconstruction Method for Bridge Weight-in-Motion System Using Generative Adversarial Network”, submitted to Sensors.
-
-* **Other Journal Articles**
-  * Qin, J., Zhuang, Y., Chen, B., **Dong, C.Z.*/**, Xue, C., and Easa, S.M. (2021), “Data Loss Reconstruction Method for Bridge Weight-in-Motion System Using Generative Adversarial Network”, submitted to Sensors.
-  * Hu, H., **Dong, C.Z.*/**, Wang, J.J., and Chen, J.Q. (2021), “Experimental study of the fatigue performance of the bonding surfaces and load bearing capacity of a large-scale severely damaged hollow slab strengthened by CFRP”, Sustainability, 13(21), 12179.
-  * **Dong, C.Z.**, Li, L., Yan, J., Zhang, Z., Pan, H. and Catbas, F.N. (2021), "Pixel-level fatigue crack segmentation in large-scale images of steel structures using an encoder–decoder network", Sensors, 21(12), 4135. https://www.mdpi.com/1424-8220/21/12/4135/htm
-  * Lydon, D., Lydon, M., Kromanis, R., **Dong, C.Z.**, Catbas, F.N., and Taylor, S. (2021), “Bridge damage detection approach using a roving camera technique”, Sensors, 21(4), 1246. DOI: 10.3390/s21041246
-  * Zhang, Z., Yan, J., Li, L., Pan, H., and **Dong, C.Z.** (2021), “Condition assessment of stay cables through enhanced time series classification using a deep learning approach”, arXiv: 2101.03701. (Accepted by Smart Structures and Systems)
   * **Dong, C.Z.**, and Catbas, F.N. (2021), “A review of computer vision-based structural health monitoring at local and global level”, Structural Health Monitoring, 20(2), 692-743. https://doi.org/10.1177/1475921720935585
   * **Dong, C.Z.**, Bas, S., and Catbas, F.N. (2020), “Investigation of vibration serviceability of a footbridge using computer vision-based methods”, Engineering Structures, 224, 111224. https://doi.org/10.1016/j.engstruct.2020.111224
   * **Dong, C.Z.**, Bas, S., and Catbas, F.N. (2020), “A portable monitoring approach using cameras and computer vision for bridge load rating in smart cities”, Journal of Civil Structural Health Monitoring, 10(5), 1001–1021. https://doi.org/10.1007/s13349-020-00431-2
-  * **Dong, C.Z.**, Bas, S., Debees, M., Alver, N. and Catbas, F.N. (2020), “Bridge load testing for identifying live load distribution, load rating, serviceability and dynamic response”, Frontiers in Built Environment, 2020. 6, Article 46, DOI: 10.3389/fbuil.2020.00046.
   * **Dong, C.Z.**, Celik, O., and Catbas, F.N. (2019), “Marker free monitoring of the grandstand structures and modal identification using computer vision methods”, Structural Health Monitoring, 18(5-6), 1491-1509.
   * **Dong, C.Z.**, Bas, S., and Catbas, F.N. (2019), “A completely non-contact recognition system for bridge unit influence line using portable cameras and computer vision”, Smart Structures and Systems, 24(5), 617-630. 
+
+
+* **Other Journal Articles**
+  * Qin, J., Zhuang, Y., Chen, B., **Dong, C.Z.*,** Xue, C., and Easa, S.M. (2021), “Data Loss Reconstruction Method for Bridge Weight-in-Motion System Using Generative Adversarial Network”, submitted to Sensors.
+  * Hu, H., **Dong, C.Z.*,** Wang, J.J., and Chen, J.Q. (2021), “Experimental study of the fatigue performance of the bonding surfaces and load bearing capacity of a large-scale severely damaged hollow slab strengthened by CFRP”, Sustainability, 13(21), 12179.
+  * **Dong, C.Z.**, Li, L., Yan, J., Zhang, Z., Pan, H. and Catbas, F.N. (2021), "Pixel-level fatigue crack segmentation in large-scale images of steel structures using an encoder–decoder network", Sensors, 21(12), 4135. https://www.mdpi.com/1424-8220/21/12/4135/htm
+  * Lydon, D., Lydon, M., Kromanis, R., **Dong, C.Z.**, Catbas, F.N., and Taylor, S. (2021), “Bridge damage detection approach using a roving camera technique”, Sensors, 21(4), 1246. DOI: 10.3390/s21041246
+  * Zhang, Z., Yan, J., Li, L., Pan, H., and **Dong, C.Z.** (2021), “Condition assessment of stay cables through enhanced time series classification using a deep learning approach”, arXiv: 2101.03701. (Accepted by Smart Structures and Systems)
+  * **Dong, C.Z.**, Bas, S., Debees, M., Alver, N. and Catbas, F.N. (2020), “Bridge load testing for identifying live load distribution, load rating, serviceability and dynamic response”, Frontiers in Built Environment, 2020. 6, Article 46, DOI: 10.3389/fbuil.2020.00046.
   * **Dong, C.Z.**, Celik, O., Catbas, F.N., O’Brien, E., and Taylor, S. (2019), “Structural Displacement Monitoring Using Deep Learning-based Full Field Optical Flow Methods”, Structure and Infrastructure Engineering, 16(1), 51-71. 
   * **Dong, C.Z.**, Celik, O., Catbas, F.N., O’Brien, E., and Taylor, S. (2019), “A robust vision-based method for displacement measurement under adverse environmental factors using spatio-temporal context learning and Taylor approximation”, Sensors, 19(14), 3197. 
   * **Dong, C.Z.** and Catbas, F.N. (2019), “A non-target structural displacement measurement method using advanced feature matching strategy”, Advances in Structural Engineering, 22(16), 3461-3472. 
