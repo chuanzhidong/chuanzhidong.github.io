@@ -108,10 +108,14 @@ redirect_from:
   *	Member of Structural Engineering Institute (SEI), ASCE
   * Member of Society for Experimental Mechanics (SEM)
   * Secretary of Computer Vision and Laser Vibrometry Technical Division of Society for Experimental Mechanics (SEM)
+  * Member of International Association for Bridge Maintenance and Safety (IABMAS)
+  *	Assistant Secretary and Member of Bridge Health Monitoring (BHM) Committee in International Association for Bridge Maintenance and Safety (IABMAS)
   * Committee member of Dynamics of Civil Structures Technical Division of Society for Experimental Mechanics (SEM)
   * Friend of Transportation Research Board (TRB) Committee of National Academies of Science and Engineering: Committee AFF 40 Field testing and NDE of Transportation Structures
   * Friend of Involved in Transportation Research Board (TRB) Committee of National Academies of Science and Engineering – Sub Committee: Non-Destructive Evaluation of Structures
 
+* **Editorial Activities: Editors**
+  * Guest Editor of Special Issue “Interdisciplinary Research and Practice in Structural Health Monitoring and Condition Assessment of Civil Infrastructures” in Sensors journal. Details can be found [**here**](https://www.mdpi.com/journal/sensors/special_issues/IRPSHM)
 
 * **Editorial Activities: Journal Paper Review**
   * Journal of Structural Engineering, ASCE
