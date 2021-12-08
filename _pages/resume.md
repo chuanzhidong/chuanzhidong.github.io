@@ -76,17 +76,6 @@ redirect_from:
 
 
 
-**SELECTED COURSEWORK**
-------
-* CES 5144: Matrix Structural Analysis
-* CES 5325: Bridge Engineering
-* CES 6116: Finite Element Analysis
-* CES 6209: Dynamics of Structures
-* CAP 5415: Computer Vision
-* CAP 6412: Advanced Computer Vision
-* CAP 6419: 3D Computer Vision
-* STA 5703: Data Mining
-
 
 **HONORS & AWARDS**
 ------
@@ -130,6 +119,7 @@ redirect_from:
   * Structure and Infrastructure Engineering
   * Journal of Performance of Constructed Facilities, ASCE
   * Smart Structures and Systems
+  *	Measurement Science and Technology
   * Experimental Techniques
   * Sensors
   * IET Image Processing
@@ -145,3 +135,16 @@ redirect_from:
 * **Certificate**
   * “Theory, Experiments & Application for Structure Monitoring & Machine Learning – Design, Build & Analyze Real Data Using Low Cost Sensors” course completion certificated by Society for Experimental Mechanics (IMAC37, Feb 2018)
   * Pre short course completion certificated by the 8th International Conference on Experimental Vibration Analysis for Civil Engineering Structures (EVACES 2019)
+
+
+
+**SELECTED COURSEWORK**
+------
+* CES 5144: Matrix Structural Analysis
+* CES 5325: Bridge Engineering
+* CES 6116: Finite Element Analysis
+* CES 6209: Dynamics of Structures
+* CAP 5415: Computer Vision
+* CAP 6412: Advanced Computer Vision
+* CAP 6419: 3D Computer Vision
+* STA 5703: Data Mining
