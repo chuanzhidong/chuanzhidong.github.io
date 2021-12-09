@@ -12,9 +12,13 @@ redirect_from:
 
 I currently work as the Structural & Analytics Engineer in the Internet of Things (IoT) Tower, at [Palo Alto Research Center Inc (PARC)](https://www.parc.com/). Before joining PARC, I worked as the Postdoctoral Scholar in the Department of Civil, Environmental, and Construction Engineering at the University of Central Florida. I was advised by Professor [F. Necati Catbas](https://www.cece.ucf.edu/catbas/) in the [Laboratory for Civil Infrastructure Technologies for Resilience and Safety (CITRS)](https://www.cece.ucf.edu/CITRS/) at the University of Central Florida. 
 
-**My detailed CV can be downloaded [here](https://1drv.ms/b/s!AjZZWcsrWm3ieLx-KNuKnWwwgw8?e=lVUAJv).** 
+In my current position at PARC, I am conducting research on comprehensive structural assessment for transportation infrastructures by utilizing fiber optical sensing, Internet of Thing (IoT) and structural health monitoring systems. During my Ph.D. research, I developed a full version of computer vision-based structural monitoring and evaluation framework which combines the input-output information from images (loads and responses) to assess the performance and condition of structures. In my postdoctoral research, I continued to work at the same university, where I devoted myself to computer vision-based multi-level structural assessment at local and global level, structual condition assessment using dynamic testing, reliability evaluation, asset maintenance and management with artificial intelligence.  
 
-My research is using computer vision to evaluate the structural behaviors and conduct the structural condition assessment at global level. My research interests are vision-based displacement measurement, load estimation, modal analysis, structural identification, damage detection, human comfort analysis, vibration serviceability assessment and bridge load rating. What I am developing is a full version of computer vision-based structural monitoring and evaluation framework which combines the input-output information from images (loads and responses) to assess the performance and condition of structures. My goal is to utilize mechanics knowledge, advanced sensing technologies, computer vision, machine learning, deep learning and signal processing techniques to conduct structural health monitoring and support decision making for owners to do better structural management and maintenance.
+My research interests are vision-based displacement measurement, load estimation, modal analysis, structural identification, damage detection, human comfort analysis, smart cities, non-destructive evaluation (NDE), vibration serviceability assessment, bridge load rating and bridge repair & rehabilitation.
+
+My goal is to utilize mechanics knowledge, advanced sensing technologies, computer vision, machine learning, deep learning and signal processing techniques to conduct structural health monitoring and support decision making for owners to do better structural management and maintenance.
+
+**My detailed CV can be downloaded [here](https://1drv.ms/b/s!AjZZWcsrWm3ieLx-KNuKnWwwgw8?e=lVUAJv).** 
 
 
 ## Goals for the Near Future
