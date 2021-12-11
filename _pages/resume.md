@@ -23,8 +23,10 @@ redirect_from:
 **EMPLOYMENT EXPERIENCE**
 ------
 * **Structural & Analytics Engineer, Palo Alto Research Center, Palo Alto, CA, May 2021-present**
-  * Designing and deploying fiber optical sensor-based Structural Health Monitoring (SHM) system.
-  * Conducting bridge load rating and structural condition assessment.
+  *	Developing fiber optical sensor and Internet of Thing (IoT)-based Structural Health Monitoring system.
+  *	Investigating bridge operation status and structural behaviors under super loads/significant traffic events .
+  *	Conducting R&D of bridge load rating and structural condition assessment using IoT system.
+
 
 * **Postdoctoral Scholar, University of Central Florida, Orlando, FL, Jan 2020 - May 2021**
   * Designing learning-based algorithms to detect the structural characteristic change from bridge monitoring data of sensors and cameras before and after bridge repairs.
