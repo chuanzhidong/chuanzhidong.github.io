@@ -18,7 +18,7 @@ My research interests are vision-based displacement measurement, load estimation
 
 My goal is to utilize mechanics knowledge, advanced sensing technologies, computer vision, machine learning, deep learning and signal processing techniques to conduct structural health monitoring and support decision making for owners to do better structural management and maintenance.
 
-**My detailed CV can be downloaded [here](https://1drv.ms/b/s!AjZZWcsrWm3ieLx-KNuKnWwwgw8?e=lVUAJv).** 
+**My detailed CV can be downloaded [here](https://1drv.ms/b/s!AjZZWcsrWm3ieUDH0TSofnp46Rc).** 
 
 
 ## Goals for the Near Future
