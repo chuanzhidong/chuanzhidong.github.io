@@ -18,7 +18,7 @@ My research interests are vision-based displacement measurement, load estimation
 
 My goal is to utilize mechanics knowledge, advanced sensing technologies, computer vision, machine learning, deep learning and signal processing techniques to conduct structural health monitoring and support decision making for owners to do better structural management and maintenance.
 
-**My detailed CV can be downloaded [here](https://1drv.ms/b/s!AjZZWcsrWm3ieUDH0TSofnp46Rc?e=Mc6hkK).** 
+**My detailed CV can be downloaded [here](https://1drv.ms/b/s!AjZZWcsrWm3ielHC1MS9FWA2PwU?e=Ilr8G7).** 
 
 
 ## Goals for the Near Future
@@ -31,6 +31,10 @@ My goal is to utilize mechanics knowledge, advanced sensing technologies, comput
 * Be a professor and teach some helpful courses
 * Write a novel
 * Maybe have PhD in History
+
+## Contact Me
+
+Email: ceczdong@knights.ucf.edu
 
 <!-- Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
