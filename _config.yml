@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://chuanzhidong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chuanzhidong.github.io" # https://chuanzhidong.github.io
-teaser                   : "ChuanzhiDong.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "Dong.jpeg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Chuan-Zhi Dong, Ph.D."
-  avatar           : "ChuanzhiDong.jpg"
+  avatar           : "Dong.jpeg"
   bio              : "Keep our infrastructures safe and make our lives better." 
   location         : "Orlando, FL"
   employer         : "Palo Alto Research Center Inc"
