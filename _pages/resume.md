@@ -99,7 +99,7 @@ redirect_from:
   * Member of Society for Experimental Mechanics (SEM)
   * Secretary of Computer Vision and Laser Vibrometry Technical Division of Society for Experimental Mechanics (SEM)
   * Member of International Association for Bridge Maintenance and Safety (IABMAS)
-  *	Assistant Secretary and Member of Bridge Health Monitoring (BHM) Committee in International Association for Bridge Maintenance and Safety (IABMAS)
+  *	Member of Bridge Health Monitoring (BHM) Committee in International Association for Bridge Maintenance and Safety (IABMAS)
   * Committee member of Dynamics of Civil Structures Technical Division of Society for Experimental Mechanics (SEM)
   * Friend of Transportation Research Board (TRB) Committee of National Academies of Science and Engineering: Committee AFF 40 Field testing and NDE of Transportation Structures
   * Friend of Involved in Transportation Research Board (TRB) Committee of National Academies of Science and Engineering – Sub Committee: Non-Destructive Evaluation of Structures
