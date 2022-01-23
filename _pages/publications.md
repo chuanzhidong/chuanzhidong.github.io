@@ -13,40 +13,45 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 
 **PUBLICATIONS**
 ------
-* ==***Selected Journal Articles***==
-  * **Dong, C.Z.**, and Catbas, F.N. (2021), “A review of computer vision-based structural health monitoring at local and global level”, Structural Health Monitoring, 20(2), 692-743. https://doi.org/10.1177/1475921720935585
-  * **Dong, C.Z.**, Bas, S., and Catbas, F.N. (2020), “Investigation of vibration serviceability of a footbridge using computer vision-based methods”, Engineering Structures, 224, 111224. https://doi.org/10.1016/j.engstruct.2020.111224
-  * **Dong, C.Z.**, Bas, S., and Catbas, F.N. (2020), “A portable monitoring approach using cameras and computer vision for bridge load rating in smart cities”, Journal of Civil Structural Health Monitoring, 10(5), 1001–1021. https://doi.org/10.1007/s13349-020-00431-2
+* ***Representative Journal Publications***
+  * **Dong, C.Z.**, Bas, S., and Catbas, F.N. (2020), “Investigation of vibration serviceability of a footbridge using computer vision-based methods”, Engineering Structures, 224, 111224. 
+  * **Dong, C.Z.**, Bas, S., and Catbas, F.N. (2020), “A portable monitoring approach using cameras and computer vision for bridge load rating in smart cities”, Journal of Civil Structural Health Monitoring, 10(5), 1001–1021. 
+  * **Dong, C.Z.**, and Catbas, F.N. (2020), “A review of computer vision-based structural health monitoring at local and global level”, Structural Health Monitoring, 20(2), 692-743. 
   * **Dong, C.Z.**, Celik, O., and Catbas, F.N. (2019), “Marker free monitoring of the grandstand structures and modal identification using computer vision methods”, Structural Health Monitoring, 18(5-6), 1491-1509.
-  * **Dong, C.Z.**, Bas, S., and Catbas, F.N. (2019), “A completely non-contact recognition system for bridge unit influence line using portable cameras and computer vision”, Smart Structures and Systems, 24(5), 617-630. 
-
-
-* **Other Journal Articles**
-  * Zhuang, Y., Qin, J., Chen, B., **Dong, C.Z.*,** Xue, C., and Easa, S.M. (2021), “Data loss reconstruction method for bridge weigh-in-motion system using generative adversarial networks”, submitted to Sensors., accepted by Sensors. (**as corresponding author**)
-  * Hu, H., **Dong, C.Z.*,** Wang, J.J., and Chen, J.Q. (2021), “Experimental study of the fatigue performance of the bonding surfaces and load bearing capacity of a large-scale severely damaged hollow slab strengthened by CFRP”, Sustainability, 13(21), 12179.(**as corresponding author**)
-  * **Dong, C.Z.*,** Li, L., Yan, J., Zhang, Z., Pan, H. and Catbas, F.N. (2021), "Pixel-level fatigue crack segmentation in large-scale images of steel structures using an encoder–decoder network", Sensors, 21(12), 4135. https://www.mdpi.com/1424-8220/21/12/4135/htm
-  * Lydon, D., Lydon, M., Kromanis, R., **Dong, C.Z.**, Catbas, F.N., and Taylor, S. (2021), “Bridge damage detection approach using a roving camera technique”, Sensors, 21(4), 1246. DOI: 10.3390/s21041246
-  * Zhang, Z., Yan, J., Li, L., Pan, H., and **Dong, C.Z.** (2021), “Condition assessment of stay cables through enhanced time series classification using a deep learning approach”, Smart Structures and Systems, 29(1), 105-116.
-  * **Dong, C.Z.**, Bas, S., Debees, M., Alver, N. and Catbas, F.N. (2020), “Bridge load testing for identifying live load distribution, load rating, serviceability and dynamic response”, Frontiers in Built Environment, 2020. 6, Article 46, DOI: 10.3389/fbuil.2020.00046.
   * **Dong, C.Z.**, Celik, O., Catbas, F.N., O’Brien, E., and Taylor, S. (2019), “Structural Displacement Monitoring Using Deep Learning-based Full Field Optical Flow Methods”, Structure and Infrastructure Engineering, 16(1), 51-71. 
+
+
+* **Full List of Journal Publications**
+  * Zhuang, Y., Qin, J., Chen, B., **Dong, C.Z.*,** Xue, C., and Easa, S.M. (2022), “Data loss reconstruction method for bridge weigh-in-motion system using generative adversarial networks”, Sensors, 22, 858. (**as corresponding author**). https://doi.org/10.3390/s22030858
+  * Zhang, Z., Yan, J., Li, L., Pan, H., and **Dong, C.Z.** (2022), “Condition assessment of stay cables through enhanced time series classification using a deep learning approach”, Smart Structures and Systems, 29(1), 105-116.
+  * Hu, H., **Dong, C.Z.*,** Wang, J.J., and Chen, J.Q. (2021), “Experimental study of the fatigue performance of the bonding surfaces and load bearing capacity of a large-scale severely damaged hollow slab strengthened by CFRP”, Sustainability, 13(21), 12179. (**as corresponding author**)
+  * **Dong, C.Z.*,** Li, L., Yan, J., Zhang, Z., Pan, H. and Catbas, F.N. (2021), "Pixel-level fatigue crack segmentation in large-scale images of steel structures using an encoder–decoder network", Sensors, 21(12), 4135.
+  * Lydon, D., Lydon, M., Kromanis, R., **Dong, C.Z.**, Catbas, F.N., and Taylor, S. (2021), “Bridge damage detection approach using a roving camera technique”, Sensors, 21(4), 1246. DOI: 10.3390/s21041246
+  * **Dong, C.Z.**, and Catbas, F.N. (2020), “A review of computer vision-based structural health monitoring at local and global level”, Structural Health Monitoring, 20(2), 692-743. 
+  * **Dong, C.Z.**, Bas, S., and Catbas, F.N. (2020), “Investigation of vibration serviceability of a footbridge using computer vision-based methods”, Engineering Structures, 224, 111224. 
+  * **Dong, C.Z.**, Bas, S., and Catbas, F.N. (2020), “A portable monitoring approach using cameras and computer vision for bridge load rating in smart cities”, Journal of Civil Structural Health Monitoring, 10(5), 1001–1021. 
+  * **Dong, C.Z.**, Bas, S., Debees, M., Alver, N. and Catbas, F.N. (2020), “Bridge load testing for identifying live load distribution, load rating, serviceability and dynamic response”, Frontiers in Built Environment, 2020. 6, Article 46, DOI: 10.3389/fbuil.2020.00046.
+  * Celik, O., **Dong, C.Z.**, and Catbas, F.N. (2020), “Investigation of Human Induced Excitations using Hybrid Multivariate Empirical Mode Decomposition”, Journal of Structural Engineering, ASCE. 146(4), 04020019.
+  * Bas, S., **Dong, C.Z.**, Apaydin, N.M., Ilki, A., and Catbas, F.N. (2020), “Hanger Replacement Influence on Seismic Response of Suspension Bridges: Implementation to the Bosphorus Bridge subjected to Multi-Support Excitation”, Earthquake Engineering and Structural Dynamics. DOI: 10.1002/eqe.3314.
+  * Celik, O., **Dong, C.Z.**., and Catbas, F.N. (2020), “Computer Vision Based Human Comfort Assessment of Stadia”, Journal of Performance of Constructed Facilities, ASCE, 34(2), 0402005.
+  * **Dong, C.Z.**, Celik, O., and Catbas, F.N. (2019), “Marker free monitoring of the grandstand structures and modal identification using computer vision methods”, Structural Health Monitoring, 18(5-6), 1491-1509.
+  * **Dong, C.Z.**, Celik, O., Catbas, F.N., O’Brien, E., and Taylor, S. (2019), “Structural Displacement Monitoring Using Deep Learning-based Full Field Optical Flow Methods”, Structure and Infrastructure Engineering, 16(1), 51-71. 
+  * **Dong, C.Z.**, Bas, S., and Catbas, F.N. (2019), “A completely non-contact recognition system for bridge unit influence line using portable cameras and computer vision”, Smart Structures and Systems, 24(5), 617-630. 
   * **Dong, C.Z.**, Celik, O., Catbas, F.N., O’Brien, E., and Taylor, S. (2019), “A robust vision-based method for displacement measurement under adverse environmental factors using spatio-temporal context learning and Taylor approximation”, Sensors, 19(14), 3197. 
   * **Dong, C.Z.** and Catbas, F.N. (2019), “A non-target structural displacement measurement method using advanced feature matching strategy”, Advances in Structural Engineering, 22(16), 3461-3472. 
-  * **Dong, C.Z.**, Ye, X.W., and Jin, T. (2018), “Identification of structural dynamic characteristics based on machine vision technology”, Measurement, 126, 405-416.
-  * Bas, S., **Dong, C.Z.**, Apaydin, N.M., Ilki, A., and Catbas, F.N. (2020), “Hanger Replacement Influence on Seismic Response of Suspension Bridges: Implementation to the Bosphorus Bridge subjected to Multi-Support Excitation”, Earthquake Engineering and Structural Dynamics. DOI: 10.1002/eqe.3314.
-  * Celik, O., **Dong, C.Z.**, and Catbas, F.N. (2020), “Investigation of Human Induced Excitations using Hybrid Multivariate Empirical Mode Decomposition”, Journal of Structural Engineering, ASCE. 146(4), 04020019.
-  * Celik, O., **Dong, C.Z.**., and Catbas, F.N. (2020), “Computer Vision Based Human Comfort Assessment of Stadia”, Journal of Performance of Constructed Facilities, ASCE, 34(2), 0402005.
   * Celik, O., **Dong, C.Z.**, and Catbas, F.N. (2018), “A computer vision approach for the load time history estimation of lively individuals and crowds”, Computers & Structures, 200(15), 32-52.
+  * **Dong, C.Z.**, Ye, X.W., and Jin, T. (2018), “Identification of structural dynamic characteristics based on machine vision technology”, Measurement, 126, 405-416.
   * Ye, X.W., **Dong, C.Z.**, and Liu, T. (2016), “Force monitoring of steel cables using vision-based sensing technology: methodology and experimental verification”, Smart Structures and Systems, 18(3), 585-599. 
   * Ye, X.W., **Dong, C.Z.**, and Liu, T. (2016), “Image-based structural dynamic displacement measurement using different multi-object tracking algorithms”, Smart Structures and Systems, 17(6), 935-956. 
   * Ye, X.W., **Dong, C.Z.**, and Liu, T. (2016), “A Review of Machine Vision-based Structural Health Monitoring: Methodologies and Applications”, Journal of Sensors, 2016, 7103039. 
+  * Duan, Y.F., Zhang, R., **Dong, C.Z.**, Luo, Y.Z., Or, S.W., Zhao, Y., and Fan, K.Q. (2016) “Development of elasto-magneto-electric (EME) sensor for in-service cable force monitoring”, International Journal of Structural Stability and Dynamics, 16, 1-15. 
   * Ye, X.W., Yi, T.H., **Dong, C.Z.**, Liu, T., and Bai, H. (2015), “Multi-point displacement monitoring of bridges using a vision-based approach”, Wind and Structures, 20(2), 315-326. 
   * Ye, X.W., Yi, T.H., **Dong, C.Z.**, and Liu, T. (2015), “Vision-based structural displacement measurement: system performance evaluation and influence factor analysis”, Measurement, 88, 372-384. 
-  * Duan, Y.F., Zhang, R., **Dong, C.Z.**, Luo, Y.Z., Or, S.W., Zhao, Y., and Fan, K.Q. (2016) “Development of elasto-magneto-electric (EME) sensor for in-service cable force monitoring”, International Journal of Structural Stability and Dynamics, 16, 1-15. 
   * **Dong, C.Z.**, Ye, X.W., and Liu, T. (2015), “Non-contact structural vibration monitoring under varying environmental conditions”, Vibroengineering Procedia, 5, 217-222. 
-  * **Dong, C.Z.**, Ye, X.W., and Liu, T. (2015), “Noncontact structural dynamic characteristics identification method and experimental verification”, Journal of Vibration and Shock, 36(1), 188-193. (Engineering index-EI, in Chinese)
-  * Ye, X.W., Liu, T., **Dong, C.Z.** and Chen, B. (2017), “Structural damage detection based on Kalman filter and neutral axis location”, Journal of Zhejiang University (Engineering Science), 51(10), 2012-2018. (Engineering index-EI, in Chinese)
   * Ye, X.W. and **Dong, C.Z.** (2019), “Review on Computer Vision-based Structural Displacement Monitoring”, China Journal of Highway and Transport, 32(11), 21-39.
+  * Ye, X.W., Liu, T., **Dong, C.Z.** and Chen, B. (2017), “Structural damage detection based on Kalman filter and neutral axis location”, Journal of Zhejiang University (Engineering Science), 51(10), 2012-2018. (Engineering index-EI, in Chinese)
   * **Dong, C.Z.**, Guo, L., Pang, G.Y., Chen, H.W., Duan, Y.F., and Zhou, C.B. (2016), “Elasto-magnetic effect based total stress monitoring of internal prestressing tendons: experimental investigation and engineering application”, Structural Engineers, 32(4), 74-79. (in Chinese)
+  * **Dong, C.Z.**, Ye, X.W., and Liu, T. (2015), “Noncontact structural dynamic characteristics identification method and experimental verification”, Journal of Vibration and Shock, 36(1), 188-193. (Engineering index-EI, in Chinese)
   * Pang, G.Y., **Dong, C.Z.**, Duan, Y.F., and Zhou, C.B. (2015), “Elasto-magnetic effect based total stress monitoring of prestressed streel strands: experimental investigation”, Structural Engineers, 31(4), 192-198. (in Chinese)
 
 * **Conference Papers and Presentations**:
