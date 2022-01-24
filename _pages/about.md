@@ -18,12 +18,12 @@ My research interests are Structural Health Monitoring, Computer Vision, Structu
 
 My goal is to utilize knowledge in structural engineering, advanced sensing technologies, computer vision, machine learning, deep learning and signal processing techniques to conduct structural health monitoring and support decision making for owners to do better structural management and maintenance.
 
-**My detailed CV can be downloaded [here](https://1drv.ms/b/s!AjZZWcsrWm3ielHC1MS9FWA2PwU?e=Ilr8G7).** 
+**My detailed CV can be downloaded [here](https://1drv.ms/b/s!AjZZWcsrWm3ie9EQmTJV6FVoxT0?e=BpeEEr).** 
 
 
 ## Goals for the Near Future
 
-* Investigating advanced technologies and theories to better support the safty of our infrastructures.
+* Investigating advanced technologies and theories to better support the safety of our infrastructures.
 * Converting my research findings into really useful products or tools for the researchers or engineering practioners in the area of civil infrastructure monitoring and condition assessment. 
 
 ## Lifetime Goals
@@ -34,7 +34,7 @@ My goal is to utilize knowledge in structural engineering, advanced sensing tech
 
 ## Contact Me
 
-Email: ceczdong@knights.ucf.edu
+**Email: ceczdong@knights.ucf.edu**
 
 <!-- Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
