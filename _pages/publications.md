@@ -20,9 +20,8 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
   * **Dong, C.Z.**, Celik, O., and Catbas, F.N. (2019), “Marker free monitoring of the grandstand structures and modal identification using computer vision methods”, Structural Health Monitoring, 18(5-6), 1491-1509.
   * **Dong, C.Z.**, Celik, O., Catbas, F.N., O’Brien, E., and Taylor, S. (2019), “Structural Displacement Monitoring Using Deep Learning-based Full Field Optical Flow Methods”, Structure and Infrastructure Engineering, 16(1), 51-71. 
 
-
 * **Full List of Journal Publications**
-  * Hu, H., Wang, J., **Dong, C.Z.***, Chen, J., and Wang, T. (2022), "A hybrid method for damage detection and condition assessment of hinge joints in hollow slab bridges using physical models and vision-based measurements", Mechanical Systems and Signal Processing.   
+  * Hu, H., Wang, J., **Dong, C.Z.*,**, Chen, J., and Wang, T. (2022), "A hybrid method for damage detection and condition assessment of hinge joints in hollow slab bridges using physical models and vision-based measurements", Mechanical Systems and Signal Processing, **accepted for publication**. (**as corresponding author**).  
   * Zhuang, Y., Qin, J., Chen, B., **Dong, C.Z.*,** Xue, C., and Easa, S.M. (2022), “Data loss reconstruction method for bridge weigh-in-motion system using generative adversarial networks”, Sensors, 22(3), 858. (**as corresponding author**). https://doi.org/10.3390/s22030858
   * Zhang, Z., Yan, J., Li, L., Pan, H., and **Dong, C.Z.** (2022), “Condition assessment of stay cables through enhanced time series classification using a deep learning approach”, Smart Structures and Systems, 29(1), 105-116.
   * Hu, H., **Dong, C.Z.*,** Wang, J.J., and Chen, J.Q. (2021), “Experimental study of the fatigue performance of the bonding surfaces and load bearing capacity of a large-scale severely damaged hollow slab strengthened by CFRP”, Sustainability, 13(21), 12179. (**as corresponding author**)
