@@ -18,7 +18,7 @@ My research interests are Structural Health Monitoring, Computer Vision, Structu
 
 My goal is to utilize knowledge in structural engineering, advanced sensing technologies, computer vision, machine learning, deep learning and signal processing techniques to conduct structural health monitoring and support decision making for owners to do better structural management and maintenance.
 
-**My detailed CV can be downloaded [here](https://1drv.ms/b/s!AjZZWcsrWm3ie9EQmTJV6FVoxT0?e=BpeEEr).** 
+**My detailed CV can be downloaded [here](https://1drv.ms/b/s!AjZZWcsrWm3ifCeF_jh5Hj37lT0?e=a8ZAmx).** 
 
 
 ## Goals for the Near Future
