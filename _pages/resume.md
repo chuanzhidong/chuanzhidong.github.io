@@ -24,7 +24,7 @@ redirect_from:
 **EMPLOYMENT EXPERIENCE**
 ------
 
-* **Structural & Analytics Engineer, Palo Alto Research Center, Palo Alto, CA, May 2021-Sep 2022**
+* **Structural & Analytics Engineer, Palo Alto Research Center (PARC, a Xerox company), Palo Alto, CA, May 2021-Sep 2022**
   *	Develop fiber optic sensor and Internet of Thing (IoT)-based structural health monitoring system for transportation infrastructures to diagnose the structural health status and system performance.
   *	Develop finite element models to evaluate system load carrying capacities and critical components for diagnostics and prognostics.
   *	Conduct R&D of condition assessment, load detection, load capacity evaluation and predictive models with hybrid methods based on IoT system, computer vision, machine/deep learning, and data analytics.
