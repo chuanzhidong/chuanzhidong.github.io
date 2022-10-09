@@ -11,8 +11,9 @@ redirect_from:
 
 **EDUCATION**
 ------
+
 * **Ph.D., University of Central Florida, USA, 2019**
-  * Civil Engineering (Structural Engineering Track), Advisor: Prof. [**F. Necati Catbas**](https://www.cece.ucf.edu/catbas/)
+  * Structural Engineering, Advisor: Prof. [**F. Necati Catbas**](https://www.cece.ucf.edu/catbas/)
 * **M.Sc., Zhejiang University, China, 2016**
   * Bridge and Tunnel Engineering
 * **B.S., Zhejiang Gongshang University, China, 2011**
@@ -22,32 +23,43 @@ redirect_from:
 
 **EMPLOYMENT EXPERIENCE**
 ------
-* **Structural & Analytics Engineer, Palo Alto Research Center, Palo Alto, CA, May 2021-present**
-  *	Developing fiber optical sensor and Internet of Thing (IoT)-based Structural Health Monitoring system.
-  * Conducting R&D of bridge load rating and structural condition assessment using IoT system, machine/deep learning, and data analytics.
-  *	Investigating bridge operation status and structural behaviors under super loads/significant traffic events .
+
+* **Structural & Analytics Engineer, Palo Alto Research Center, Palo Alto, CA, May 2021-Sep 2022**
+  *	Develop fiber optic sensor and Internet of Thing (IoT)-based structural health monitoring system for transportation infrastructures to diagnose the structural health status and system performance.
+  *	Develop finite element models to evaluate system load carrying capacities and critical components for diagnostics and prognostics.
+  *	Conduct R&D of condition assessment, load detection, load capacity evaluation and predictive models with hybrid methods based on IoT system, computer vision, machine/deep learning, and data analytics.
+  *	Investigate system operation status and structural behaviors under super loads/significant events by using large data analysis, computer vision, and machine learning based methods.
+
 
 * **Postdoctoral Scholar, University of Central Florida, Orlando, FL, Jan 2020 - May 2021**
-  * Designing learning-based algorithms to detect the structural characteristic change from bridge monitoring data of sensors and cameras before and after bridge repairs.
-  * Conducting static and dynamic load tests on deteriorated bridges and investigating the structural behavior, modal properties and load distribution effects.
-  * Designing learning-based algorithms to detect local structural damages such as crack, spall and delamination by using multi-source information fusion
+  *	Developed deep learning algorithms to detect local structural damages such as crack, spalling and delamination by using multi-source information fusion such as conventional sensor signals, images, infrared/thermal images, NDT, and FEA results.
+  *	Investigated mechanical behavior, dynamic properties, and load distribution effects of deteriorated coastal bridges by using load tests, SHM, digital image correlation (DIC) and NDT.
+  *	Investigated machine learning-based algorithms to detect the structural characteristic changes from bridge monitoring data of sensors and cameras before and after bridge repairs.
+  *	Wrote research proposals for fundings from different agencies and asset owners.
+  *	Mentored and led graduate and undergraduate students in multiple research projects.
 
-* **Guest Lecturer, University of Central Florida, Orlando, FL, Mar 2021**
-  * Teaching graduate level course: Finite Element Analysis.
 
-* **Research Assistant, University of Central Florida, Orlando, FL, Aug 2016 - Dec. 2019**
-  * Proposed a portable approach to estimate the bridge load distribution and load rating by using computer vision, and achieved the bridge load rating under normal traffic and without load test.
-  * Proposed a fully structure-oriented noncontact response monitoring framework with different computer vision algorithms, and improved the monitoring efficiency under different application scenarios.
-  * Developed a non-contact bridge weigh-in-motion approach by using computer vision, and estimated the human load on a footbridge.
-  * Monitored the structural vibrations of a large stadium using sensors and cameras during NCAA football games, and investigated the vibration serviceability of the stadium under human crowd dynamic loads.
-  * Mentored a diverse group of students to do finite element analysis, loading test, vibration monitoring and modal analysis.
+* **Guest Lecturer/Course Instructor, University of Central Florida, Orlando, FL, 2021-2022**
+  * Finite Element Analysis: graduate level course.
+  * Dynamics of Structures: graduate level course.
+  * Statics: undergraduate level course. 
+
+* **Research Assistant, University of Central Florida, Orlando, FL, Aug 2016 - Dec 2019**
+  *	Proposed a fully structure-oriented noncontact health monitoring framework with different computer vision algorithms, and improved the monitoring efficiency under different application scenarios.
+  *	Proposed a portable approach to estimate the bridge load distribution and load rating by using computer vision, and achieved the bridge load rating under normal traffic and without load test.
+  *	Developed a non-contact bridge weigh-in-motion (WIM) approach by using computer vision, and estimated the human load on a footbridge.
+  *	Monitored the structural vibrations of a large stadium using sensors and cameras during NCAA football games, and investigated the vibration serviceability of the stadium under human crowd dynamic loads.
+  *	Wrote research proposals for fundings and mentored graduate and undergraduate students.
+  *	Mentored a diverse group of students to do finite element analysis, loading test, vibration monitoring and modal analysis.
+
 
 * **Research Assistant, Zhejiang University, Hangzhou, China, May 2012 - Aug 2016**
-  * Developed computer vision-based structural monitoring methods and implemented on multiple structures to estimate the structural behaviors and evaluate structural performances under various types of loads.
-  * Developed an Elasto-Magnetic effect based total stress sensing method for steel cables, and implemented on real bridges to estimate the cable stress loss during construction and operation stages.
-  * Built a scaled model of a cable-stayed bridge, implemented the structural health monitoring system on it and conducted experiments and structural evaluation.
-  * Analyzed seven months displacement data from a bridge health monitoring system and extracted the bridge profile changes under long term temperature effects.
-  * Extracted the temperature induced and the traffic induced strain components from the measurements of fiber optical sensors using Wavelet Analysis.
+  *	Developed an Elasto-Magnetic effect based total strain/stress sensing method for steel cables and implemented on real bridges to estimate the cable stress loss during construction and operation stages.
+  *	Built a scaled model of a cable-stayed bridge, implemented the structural health monitoring system on it and conducted experiments and structural evaluation.
+  *	Developed computer vision-based structural monitoring methods and implemented on multiple structures to estimate the structural behaviors and evaluate structural performances under various types of loads.
+  *	Analyzed seven months displacement data from a bridge health monitoring system and extracted the bridge profile changes under long term temperature effects.
+  *	Extracted the temperature induced and the traffic induced strain components from the measurements of fiber optical sensors using Wavelet Analysis.
+
 
 * **Teaching Assistant, Zhejiang University, Hangzhou, China, Sep 2014 - May 2016**
   * Guided undergraduate students to gain hands-on experiences in different types of sensing technologies for structural health monitoring during the Structural Health Monitoring and Control course.
@@ -57,6 +69,7 @@ redirect_from:
 
 **PROJECT INVOLVED**
 ------
+
 * **NSF Project**: US-Ireland Partnership Program: Bridge Health Monitoring Using Cameras and Computer Vision methods. Key partners: UCF (USA); UCD (Ireland); and QUB (UK).
 * **NASA Project**: Reliability-Based Bridge Inspection Framework using Non-destructive Evaluation (NDE) and Structural Health Monitoring (SHM) for Effective and Efficient Asset Maintenance
 * **NASA Project**: Bridge load testing, load rating and condition assessment of Indian River Bridge.
@@ -66,12 +79,13 @@ redirect_from:
 
 **PERSONAL SKILLS & COMPETENCES**
 ------
+
 * **Engineering software**
-  * SAP2000, CSiBridge, Midas Civil, COMSOL,  ANSYS, Nastran, Abaqus, AutoCAD, Solidworks
+  * ANSYS, ABAQUS, NASTRAN, SAP2000, COMSOL, AutoCAD, SolidWorks, CSiBridge, Midas Civil
 * **Programming/Tools**
-  * C++, C#, Qt, Python, R, LabVIEW, MATLAB, SAS, Halcon, OpenCV, PyTorch
+  * Python, C++, C#, Qt, R, LabVIEW, MATLAB, OpenCV, PyTorch, GitHub, JavaScript
 * **Domain Knowledge**
-  * Structural Analysis, Advanced Sensing, Structural Identification, Bridges, Modal Testing and Analysis, Finite Element Method, Computer Vision
+  * Advanced Sensing, Diagnostics and Prognostics, Dynamics, Computer Vision, Finite Element Analysis, Structural Mechanics, Modal Testing, Vibrations Serviceability, Non-destructive Testing 
 * **Data Analysis**
   * Data Mining, Statistics, Machine Learning, Deep Learning, Signal Processing
 
@@ -80,6 +94,7 @@ redirect_from:
 
 **HONORS & AWARDS**
 ------
+
 * The First Prize of the 1st International Project Competition for Structural Health Monitoring, 2020.
 * The CECS’s 2019 Outstanding Dissertation Award by College of Engineering and Computer Science (CECS), University of Central Florida (UCF), 2019.
 * UCF Graduate Presentation Fellowship (2017-2019 academic years, three times).
@@ -93,6 +108,7 @@ redirect_from:
 
 **ACADEMIC SERVICES & EDITORIAL ACTIVITIES**
 ------
+
 * **Academic Services**
   * Associate member of American Society of Civil Engineers (ASCE)
   *	Member of Structural Engineering Institute (SEI), ASCE
@@ -122,15 +138,10 @@ redirect_from:
   * Smart Structures and Systems
   *	Measurement Science and Technology
   * Experimental Techniques
-  * Sensors
   * IET Image Processing
   * Journal of Energy Storage
   * International Journal of Advanced Manufacturing Technology
   * Frontiers in Built Environment
-  * Infrastructures
-  * Applied Science
-  * Sustainability
-  * Vibrations
 
 
 * **Certificate**
@@ -141,6 +152,7 @@ redirect_from:
 
 **SELECTED COURSEWORK**
 ------
+
 * CES 5144: Matrix Structural Analysis
 * CES 5325: Bridge Engineering
 * CES 6116: Finite Element Analysis

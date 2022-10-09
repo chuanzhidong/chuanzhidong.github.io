@@ -55,7 +55,9 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
   * Pang, G.Y., **Dong, C.Z.**, Duan, Y.F., and Zhou, C.B. (2015), “Elasto-magnetic effect based total stress monitoring of prestressed streel strands: experimental investigation”, Structural Engineers, 31(4), 192-198. (in Chinese)
 
 * **Conference Papers and Presentations**:
-  * **Dong, C.Z.**, and Catbas, F.N. (2020), “A Full Version of Computer Vision-based Structural Health Monitoring”, Presentation on IMAC 38: It's Not Just Modal Anymore, Space Technologies for Humanity, February 10-13, 2020, Houston, Texas.
+  * Luleci, F., Algadi, A., Debees, M., **Dong, C.Z.**, and Catbas, F.N. (2022), "Investigation of comparative analysis of a multi-span prestressed concrete highway bridge", Bridge Safety, Maintenance, Management, Life-Cycle, Resilience and Sustainability. Proceedings of the Eleventh International Conference on Bridge Maintenance, Safety and Management (IABMAS 2022), Barcelona, Spain, July 11-15, 2022. 
+  *	Hu, H., **Dong, C.Z.*,** Wang, J., and Chen, J. (2022) “A rapid condition assessment approach for hollow slab bridges using computer vision technology”, Presentation at IMAC XL: It's Not Just Modal Anymore, February 7-10, 2022, Orlando, Florida.
+  * **Dong, C.Z.**, and Catbas, F.N. (2020), “A full version of computer vision-based structural health monitoring”, Presentation on IMAC 38: It's Not Just Modal Anymore, Space Technologies for Humanity, February 10-13, 2020, Houston, Texas.
   * **Dong, C.Z.**, Bas, S. and Catbas, F.N. (2020), “Load testing and rating bridges using computer vision”, Presentation TRB Annual Meeting, January 12-16, 2020, Washington, D.C.
   * **Dong, C.Z.**, and Catbas, F.N. (2019), “A Full Version of Vision-based Structural Identification”, Proceedings of the Experimental Vibration Analysis for Civil Engineering Structures (EVACES 2019), September 5-8, 2019, Nanjing, China.
   * **Dong, C.Z.**, and Catbas, F.N. (2019), “Equipping Smart Cities with a Full Version of Computer Vision-based Structural Health Monitoring”, Presentation on The Smart Conference, May 1-4, 2019, Orlando, Florida.
