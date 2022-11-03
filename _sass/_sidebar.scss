@@ -15,7 +15,7 @@
 
   @include breakpoint($large) {
     @include span(2 of 12);
-    opacity: 0.75; // originally it is 0.75, change to 1 to make it show without white wash
+    opacity: 1; // originally it is 0.75, change to 1 to make it show without white wash
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
 
