@@ -24,11 +24,14 @@ redirect_from:
 **EMPLOYMENT EXPERIENCE**
 ------
 
+* **Senior Prognostics and Health Management Engineer, Rochester Institute of Technology (RIT), Rochester, NY, Nov 2022-Present**
+  *	Develope machine learning algorithms for prognostics and health management (PHM) applications.
+
 * **Structural & Analytics Engineer, Palo Alto Research Center (PARC, a Xerox company), Palo Alto, CA, May 2021-Sep 2022**
-  *	Develop fiber optic sensor and Internet of Thing (IoT)-based structural health monitoring system for transportation infrastructures to diagnose the structural health status and system performance.
-  *	Develop finite element models to evaluate system load carrying capacities and critical components for diagnostics and prognostics.
-  *	Conduct R&D of condition assessment, load detection, load capacity evaluation and predictive models with hybrid methods based on IoT system, computer vision, machine/deep learning, and data analytics.
-  *	Investigate system operation status and structural behaviors under super loads/significant events by using large data analysis, computer vision, and machine learning based methods.
+  *	Developed fiber optic sensor and Internet of Thing (IoT)-based structural health monitoring system for transportation infrastructures to diagnose the structural health status and system performance.
+  *	Developed finite element models to evaluate system load carrying capacities and critical components for diagnostics and prognostics.
+  *	Conducted R&D of condition assessment, load detection, load capacity evaluation and predictive models with hybrid methods based on IoT system, computer vision, machine/deep learning, and data analytics.
+  *	Investigated system operation status and structural behaviors under super loads/significant events by using large data analysis, computer vision, and machine learning based methods.
 
 
 * **Postdoctoral Scholar, University of Central Florida, Orlando, FL, Jan 2020 - May 2021**

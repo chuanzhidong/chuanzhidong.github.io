@@ -10,13 +10,17 @@ redirect_from:
 
 ## About Me
 
-I currently work as the Structural & Analytics Engineer in the Internet of Things (IoT) Tower, at [Palo Alto Research Center Inc (PARC)](https://www.parc.com/). Before joining PARC, I worked as the Postdoctoral Scholar in the Department of Civil, Environmental, and Construction Engineering at the University of Central Florida. I was advised by Professor [F. Necati Catbas](https://www.cece.ucf.edu/catbas/) in the [Laboratory for Civil Infrastructure Technologies for Resilience and Safety (CITRS)](https://www.cece.ucf.edu/CITRS/) at the University of Central Florida. 
+I currently work as the [Senior Prognostics and Health Management Engineer](https://www.rit.edu/directory/czdgis-chuanzhi-dong) in [Golisano Institute for Sustainability (GIS)](https://www.rit.edu/sustainabilityinstitute/), at [Rochester Institute of Technology (RIT)](https://www.rit.edu/), Rochester, New York. 
 
-In my current position at PARC, I am conducting research on comprehensive structural assessment for transportation infrastructures by utilizing fiber optical sensing, machine learning, data analytics, Internet of Thing (IoT) and SHM systems. During my Ph.D. research, I developed a full version of computer vision-based structural monitoring and evaluation framework which combines the input-output information from images (loads and responses) to assess the performance and condition of structures. In my postdoctoral research, I continued to work at the same university, where I devoted myself to computer vision-based multi-level structural assessment at local and global level, structual condition assessment using dynamic testing, reliability evaluation, asset maintenance and management with artificial intelligence.  
+Before joining RIT, I worked as the Structural & Analytics Engineer in the Internet of Things (IoT) Tower, at [Palo Alto Research Center Inc (PARC)](https://www.parc.com/), and worked as the Postdoctoral Scholar in the Department of Civil, Environmental, and Construction Engineering at the University of Central Florida (UCF). I received my PhD degree from UCF and I was advised by Professor [F. Necati Catbas](https://www.cece.ucf.edu/catbas/) in the [Laboratory for Civil Infrastructure Technologies for Resilience and Safety (CITRS)](https://www.cece.ucf.edu/CITRS/) at the University of Central Florida. 
 
-My research interests are Structural Health Monitoring, Computer Vision, Structural Dynamics, Non-destructive Evaluation, Vibration Serviceability, Intelligent Infrastructure, Artificial Intelligent, FEM, Sensing Technologies, Bridge Load Rating, Artificial Intelligence, Smart Cities, Structural Reliability, Sustainability, Bridge Repair & Rehabilitation.
+In my position at PARC, I am conducting research on comprehensive structural assessment for transportation infrastructures by utilizing fiber optical sensing, machine learning, data analytics, Internet of Thing (IoT) and SHM systems. 
 
-My goal is to utilize knowledge in structural engineering, advanced sensing technologies, computer vision, machine learning, deep learning and signal processing techniques to conduct structural health monitoring and support decision making for owners to do better structural management and maintenance.
+During my Ph.D. research, I developed a full version of computer vision-based structural monitoring and evaluation framework which combines the input-output information from images (loads and responses) to assess the performance and condition of structures. In my postdoctoral research, I continued to work at the same university, where I devoted myself to computer vision-based multi-level structural assessment at local and global level, structual condition assessment using dynamic testing, reliability evaluation, asset maintenance and management with artificial intelligence.  
+
+My research interests are Diagnostics, Prognostics and Health Management, Structural Health Monitoring, Computer Vision, Structural Dynamics, Non-destructive Evaluation, Vibration Serviceability, Intelligent Infrastructure, Artificial Intelligent, FEM, Sensing Technologies, Bridge Load Rating, Artificial Intelligence, Smart Cities, Structural Reliability, Sustainability, Repair & Rehabilitation of Structures.
+
+My goal is to utilize knowledge in structural mechanics and dynamics, structural analysis, advanced sensing technologies, computer vision, machine learning, deep learning and signal processing techniques to conduct system monitoring, diagnostics, and prognostics, and support decision making for owners to do better asset management and maintenance.
 
 **My detailed CV can be downloaded [here](https://1drv.ms/b/s!AjZZWcsrWm3ifCeF_jh5Hj37lT0?e=Ec402l).** 
 
@@ -24,7 +28,7 @@ My goal is to utilize knowledge in structural engineering, advanced sensing tech
 ## Goals for the Near Future
 
 * Investigating advanced technologies and theories to better support the safety of our infrastructures.
-* Converting my research findings into really useful products or tools for the researchers or engineering practioners in the area of civil infrastructure monitoring and condition assessment. 
+* Converting my research findings into really useful products or tools for the researchers or engineering practioners in the area of infrastructure system monitoring and condition assessment. 
 
 ## Lifetime Goals
 
