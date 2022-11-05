@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chuanzhi Dong (Chuan-Zhi Dong, 董传智)"
+title                    : "Dr. Chuanzhi Dong (Chuan-Zhi Dong, C.Z. Dong, 董传智)"
 title_separator          : "-"
 name                     : &name "Chuanzhi Dong, Ph.D."
 description              : &description "personal description"
@@ -81,10 +81,10 @@ author:
   name             : "Chuanzhi Dong, Ph.D."
   avatar           : "Dong.jpeg"
   bio              : "Keep our infrastructures safe and make our lives better." 
-  location         : "Orlando, FL"
-  employer         : "Palo Alto Research Center"
+  location         : "Rochester, NY"
+  employer         : "Rochester Institute of Technology"
   googlescholar    : "https://scholar.google.com/citations?user=Xs_dNn4AAAAJ&hl=en&authuser=1"
-  email            : "ceczdong@knights.ucf.edu"
+  email            : "ceczdong@gmail.com"
   uri              : "https://www.chuanzhidong.com"
   bitbucket        :
   codepen          :
