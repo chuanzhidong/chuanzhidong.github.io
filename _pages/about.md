@@ -10,7 +10,7 @@ redirect_from:
 
 ## About Me
 
-I currently work as the [Senior Prognostics and Health Management Engineer](https://www.rit.edu/directory/czdgis-chuanzhi-dong) in [Golisano Institute for Sustainability (GIS)](https://www.rit.edu/sustainabilityinstitute/), at [Rochester Institute of Technology (RIT)](https://www.rit.edu/), Rochester, New York. 
+**I currently work** as the [Senior Prognostics and Health Management Engineer](https://www.rit.edu/directory/czdgis-chuanzhi-dong) in [Golisano Institute for Sustainability (GIS)](https://www.rit.edu/sustainabilityinstitute/), at [Rochester Institute of Technology (RIT)](https://www.rit.edu/), Rochester, New York. 
 
 **Before joining RIT**, I worked as the Structural & Analytics Engineer in the Internet of Things (IoT) Tower, at [Palo Alto Research Center Inc (PARC)](https://www.parc.com/), and the Postdoctoral Scholar in the Department of Civil, Environmental, and Construction Engineering at the University of Central Florida (UCF). I received my PhD degree from UCF and I was advised by Professor [F. Necati Catbas](https://www.cece.ucf.edu/catbas/) in the [Laboratory for Civil Infrastructure Technologies for Resilience and Safety (CITRS)](https://www.cece.ucf.edu/CITRS/) at UCF. 
 
