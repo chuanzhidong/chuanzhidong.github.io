@@ -25,7 +25,7 @@ redirect_from:
 ------
 
 * **Senior Prognostics and Health Management Engineer, Rochester Institute of Technology (RIT), Rochester, NY, Nov 2022-Present**
-  *	Develope machine learning algorithms for prognostics and health management (PHM) applications.
+  *	Develop machine learning algorithms for prognostics and health management (PHM) applications.
 
 * **Structural & Analytics Engineer, Palo Alto Research Center (PARC, a Xerox company), Palo Alto, CA, May 2021-Sep 2022**
   *	Developed fiber optic sensor and Internet of Thing (IoT)-based structural health monitoring system for transportation infrastructures to diagnose the structural health status and system performance.
