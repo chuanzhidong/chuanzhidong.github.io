@@ -39,7 +39,7 @@ redirect_from:
 ## Other links
 
 <style>
-th{
+table, th, td {
   border:1px solid black;
 }
 </style>
