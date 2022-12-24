@@ -10,7 +10,7 @@ redirect_from:
 
 ## About Me
 
-<form action="https://stackoverflow.com/" method="get" target="_blank"><button type="submit">Click me</button></form>
+<form action="https://chuanzhidong.github.io/resume/" method="get" target="_blank"><button type="submit">Resume</button></form> <form action="https://chuanzhidong.github.io/publications/" method="get" target="_blank"><button type="submit">Publications</button></form> <form action="https://chuanzhidong.github.io/photovisuals/" method="get" target="_blank"><button type="submit">Photos</button></form>
 
 **I currently work** as the [Senior Prognostics and Health Management Engineer](https://www.rit.edu/directory/czdgis-chuanzhi-dong) in [Golisano Institute for Sustainability (GIS)](https://www.rit.edu/sustainabilityinstitute/), at [Rochester Institute of Technology (RIT)](https://www.rit.edu/), Rochester, New York. 
 
