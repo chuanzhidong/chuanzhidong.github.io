@@ -38,17 +38,11 @@ redirect_from:
 
 ## Other links
 
-<style>
-table, th, td {
-  border:1px solid black;
-}
-</style>
-
 <table>
   <tr>
-    <th><form action="https://chuanzhidong.github.io/resume/" method="get" target="_blank"><button type="submit">Resume</button></form></th>
-    <th><form action="https://chuanzhidong.github.io/publications/" method="get" target="_blank"><button type="submit">Publications</button></form></th>
-    <th><form action="https://chuanzhidong.github.io/photovisuals/" method="get" target="_blank"><button type="submit">Photos</button></form></th>
+    <th><a href="https://chuanzhidong.github.io/resume/">Resume</a></th>
+    <th><a href="https://chuanzhidong.github.io/publications/">Publications</a></th>
+    <th><a href="https://chuanzhidong.github.io/photovisuals/">Photos</a></th>
   </tr>
 </table>
   
