@@ -10,8 +10,6 @@ redirect_from:
 
 ## About Me
 
-<form action="https://chuanzhidong.github.io/resume/" method="get" target="_blank"><button type="submit">Resume</button></form> <form action="https://chuanzhidong.github.io/publications/" method="get" target="_blank"><button type="submit">Publications</button></form> <form action="https://chuanzhidong.github.io/photovisuals/" method="get" target="_blank"><button type="submit">Photos</button></form>
-
 **I currently work** as the [Senior Prognostics and Health Management Engineer](https://www.rit.edu/directory/czdgis-chuanzhi-dong) in [Golisano Institute for Sustainability (GIS)](https://www.rit.edu/sustainabilityinstitute/), at [Rochester Institute of Technology (RIT)](https://www.rit.edu/), Rochester, New York. 
 
 **Before joining RIT**, I worked as the Structural & Analytics Engineer in the Internet of Things (IoT) Tower, at [Palo Alto Research Center Inc (PARC)](https://www.parc.com/), and the Postdoctoral Scholar in the Department of Civil, Environmental, and Construction Engineering at the University of Central Florida (UCF). I received my PhD degree from UCF and I was advised by Professor [F. Necati Catbas](https://www.cece.ucf.edu/catbas/) in the [Laboratory for Civil Infrastructure Technologies for Resilience and Safety (CITRS)](https://www.cece.ucf.edu/CITRS/) at UCF. 
@@ -37,6 +35,17 @@ redirect_from:
 * Be a professor and teach some helpful courses
 * Write a novel
 * Maybe have PhD in History
+
+## Other links
+
+<table style="width:100%">
+  <tr>
+    <td><form action="https://chuanzhidong.github.io/resume/" method="get" target="_blank"><button type="submit">Resume</button></form></td>
+    <td><form action="https://chuanzhidong.github.io/publications/" method="get" target="_blank"><button type="submit">Publications</button></form></td>
+    <td><form action="https://chuanzhidong.github.io/photovisuals/" method="get" target="_blank"><button type="submit">Photos</button></form></td>
+  </tr>
+</table>
+  
 
 
 <!-- Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
