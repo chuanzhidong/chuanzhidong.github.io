@@ -36,7 +36,7 @@ redirect_from:
 * Write a novel
 * Maybe have PhD in History
 
-## Other links
+## My other links
 
 <table>
   <tr>
