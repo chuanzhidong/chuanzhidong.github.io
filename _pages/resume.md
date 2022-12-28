@@ -127,24 +127,19 @@ redirect_from:
   * Guest Editor of Special Issue “Interdisciplinary Research and Practice in Structural Health Monitoring and Condition Assessment of Civil Infrastructures” in Sensors journal. Details can be found [**here**](https://www.mdpi.com/journal/sensors/special_issues/IRPSHM)
 
 * **Editorial Activities: Journal Paper Review**
+  * Mechanical Systems and Signal Processing
   * Journal of Structural Engineering, ASCE
   * Structural Health Monitoring
   * Structural Control and Health Monitoring
-  * Mechanical Systems and Signal Processing
   * Automation in Construction
   * Engineering Structures
   * Structures
   * Measurement, Journal of the International Measurement Confederation
   * Journal of Civil Structural Health Monitoring 
   * Structure and Infrastructure Engineering
-  * Journal of Performance of Constructed Facilities, ASCE
-  * Smart Structures and Systems
-  *	Measurement Science and Technology
-  * Experimental Techniques
-  * IET Image Processing
-  * Journal of Energy Storage
   * International Journal of Advanced Manufacturing Technology
-  * Frontiers in Built Environment
+  * NDT and E International
+  * ...
 
 
 * **Certificate**
@@ -156,6 +151,7 @@ redirect_from:
 **SELECTED COURSEWORK**
 ------
 
+* CS394D: Deep Learning (UT Austin)
 * CES 5144: Matrix Structural Analysis
 * CES 5325: Bridge Engineering
 * CES 6116: Finite Element Analysis
