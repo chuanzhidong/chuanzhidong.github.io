@@ -96,6 +96,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
   * Ye, X.W., Liu, T., **Dong, C.Z.**, and Chen, B. (2016), “FBG-based structural performance monitoring and safety evaluation of a composite arch bridge”, Structural Health Monitoring of Composite Structures: Using Fiber Optic Methods, CRC Press.
 
 * **Patents and Copyrights:**
+  * Catbas, F.N., and **Dong, C.Z.** (2022), "Computer vision-based system and method for assessment of load distribution, load rating, and vibration serviceability of structures", [**US Patent App. 17/712,038, 2022**](https://patents.google.com/patent/US20220383478A1/en), US20220383478A1, United States
   * Ye, X.W. **Dong, C.Z.**, and Liu, T. (2016), “Quasi distributed structure displacement optical measurement method”, Chinese Patent, National Copyright Administration of the People’s Republic of China. 
   * Ye, X.W. **Dong, C.Z.**, and Liu, T. (2016), “A computer vision based cable distribution stress on-line monitoring method”, Chinese Patent, National Copyright Administration of the People’s Republic of China. 
   * Ye, X.W. **Dong, C.Z.**, and Liu, T. (2017), “Automatic detecting and early warning method for track foreign matter invasion based on Internet of Things technology”, Chinese Patent, National Copyright Administration of the People’s Republic of China. 
