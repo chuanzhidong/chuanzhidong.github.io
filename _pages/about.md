@@ -22,12 +22,11 @@ redirect_from:
 
 **My goal** is to utilize knowledge in structural mechanics and dynamics, structural analysis, advanced sensing technologies, computer vision, machine learning, deep learning, and signal processing techniques to conduct system monitoring, diagnostics, and prognostics, and support decision making for owners to do better asset management and maintenance.
 
-**My detailed CV can be downloaded [here](https://1drv.ms/b/s!AjZZWcsrWm3ifCeF_jh5Hj37lT0?e=Ec402l).** 
-
+<!-- **My detailed CV can be downloaded [here](https://1drv.ms/b/s!AjZZWcsrWm3ifCeF_jh5Hj37lT0?e=Ec402l).**  -->
 
 ## Goals for the Near Future
 
-* Investigating advanced technologies and theories to better support the safety of our infrastructures.
+* Investigating advanced technologies and theories to better support the safety of our infrastructures and improve people's life.
 * Converting my research findings into really useful products or tools for the researchers or engineering practioners in the area of infrastructure system monitoring and condition assessment. 
 
 ## Lifetime Goals
