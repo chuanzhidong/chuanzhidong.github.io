@@ -16,7 +16,7 @@ redirect_from:
 
 * **In my position at RIT**, developed machine learning algorithms for condition-based maintenance plus (CBM+) projects such as prognostics and health management (PHM) of engine and transmission systems. I also developed the computer vision systems for automatic recycling and resource recorvery applications by using image classification, object detection, and semantic segmentation, and also for the condition assessment of microstructures such as micro circuit boards. 
 
-* **In my position at PARC**, I am conducting research on comprehensive structural assessment for transportation infrastructures such as bridges by utilizing fiber optic sensing, machine learning, data analytics, Internet of Things (IoT) technology and structural health monitoring (SHM) systems. 
+* **In my position at Xerox PARC**, I am conducting research on comprehensive structural assessment for transportation infrastructures such as bridges by utilizing fiber optic sensing, machine learning, data analytics, Internet of Things (IoT) technology and structural health monitoring (SHM) systems. 
 
 * **During my Ph.D. research**, I developed a full version of computer vision-based structural monitoring and evaluation framework which combines the input-output information from images (loads and responses) to assess the performance and condition of structures. In my **postdoctoral research**, I continued to work at the same university, where I devoted myself to computer vision-based multi-level structural assessment at local and global level, structual condition assessment using dynamic testing, reliability evaluation, asset maintenance and management with artificial intelligence.  
 
