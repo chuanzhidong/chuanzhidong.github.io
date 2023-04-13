@@ -22,7 +22,7 @@ redirect_from:
 
 **My research interests** are System Performance Diagnostics, Prognostics and Health Management (PHM), Structural Health Monitoring (SHM), Computer Vision, Structural Dynamics, Non-destructive Evaluation, Vibration Serviceability, Intelligent Infrastructure, FEM, Smart Sensing, Bridge Load Rating, Artificial Intelligence, Smart Cities, Structural Reliability, Sustainability, Repair & Rehabilitation of Structures.
 
-**My goal** is to to develop effective and efficient technologies to support decision-making for owners to do better asset management and maintenance.
+**My goal** is to develop effective and efficient technologies to support decision-making for owners to do better asset management and maintenance.
 
 <!-- **My detailed CV can be downloaded [here](https://1drv.ms/b/s!AjZZWcsrWm3ifCeF_jh5Hj37lT0?e=Ec402l).**  -->
 
