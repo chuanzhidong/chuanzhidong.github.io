@@ -23,11 +23,13 @@ redirect_from:
 
 **EMPLOYMENT EXPERIENCE**
 ------
+* **Data Scientist, Shell, Houston, TX, Apr 2023-Present**
+  *	Develop machine learning algorithms for system performance diagnositics and prognostics.
 
-* **Senior Prognostics and Health Management Engineer, Rochester Institute of Technology (RIT), Rochester, NY, Nov 2022-Present**
+* **Senior Prognostics and Health Management Engineer, Rochester Institute of Technology (RIT), Rochester, NY, Nov 2022-Mar 2023**
   *	Develop machine learning algorithms for prognostics and health management (PHM) of complex systems such as engines and transmissions.
   * Build computer vision applications such as automatic classification, detection and segmentation for recycling and resource recorvery. 
-  * Explore image processing and computer vision technologies for condition assessment of microstructures.
+  * Explore image processing and computer vision technologies for condition assessment of microstructures such as micro circuit boards.
 
 * **Structural & Analytics Engineer, Palo Alto Research Center (PARC, a Xerox company), Palo Alto, CA, May 2021-Sep 2022**
   *	Developed fiber optic sensor and Internet of Thing (IoT)-based structural health monitoring system for transportation infrastructures to diagnose the structural health status and system performance.

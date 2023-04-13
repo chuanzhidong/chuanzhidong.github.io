@@ -10,24 +10,26 @@ redirect_from:
 
 ## About Me
 
-**I currently work** as the [Senior Prognostics and Health Management Engineer](https://www.rit.edu/directory/czdgis-chuanzhi-dong) in [Golisano Institute for Sustainability (GIS)](https://www.rit.edu/sustainabilityinstitute/), at [Rochester Institute of Technology (RIT)](https://www.rit.edu/), Rochester, New York. 
+**I currently work** as the Data Scientist at **[Shell]**(https://www.shell.us/about-us/projects-and-locations/shell-technology-center-houston.html). 
 
-**Before joining RIT**, I worked as the Structural & Analytics Engineer in the Internet of Things (IoT) Tower, at [Palo Alto Research Center Inc (PARC)](https://www.parc.com/), and the Postdoctoral Scholar in the Department of Civil, Environmental, and Construction Engineering at the University of Central Florida (UCF). I received my PhD degree from UCF and I was advised by Professor [F. Necati Catbas](https://www.cece.ucf.edu/catbas/) in the [Laboratory for Civil Infrastructure Technologies for Resilience and Safety (CITRS)](https://www.cece.ucf.edu/CITRS/) at UCF. 
+**Prior to joining Shell**, I worked as the [Senior Prognostics and Health Management Engineer](https://www.rit.edu/directory/czdgis-chuanzhi-dong) in [Golisano Institute for Sustainability (GIS)](https://www.rit.edu/sustainabilityinstitute/), at [Rochester Institute of Technology (RIT)](https://www.rit.edu/), Rochester, New York. I also worked as the Structural & Analytics Engineer in the Internet of Things (IoT) Tower, at [Xerox's Palo Alto Research Center](https://www.parc.com/) (Xerox PARC), and the Postdoctoral Scholar in the [Department of Civil, Environmental, and Construction Engineering](https://www.cece.ucf.edu/) at the University of Central Florida (UCF). I received my PhD degree from UCF and I was advised by Professor [F. Necati Catbas](https://www.cece.ucf.edu/catbas/) in the [Laboratory for Civil Infrastructure Technologies for Resilience and Safety (CITRS)](https://www.cece.ucf.edu/CITRS/) at UCF. 
 
-**In my position at PARC**, I am conducting research on comprehensive structural assessment for transportation infrastructures by utilizing fiber optic sensing, machine learning, data analytics, Internet of Thing (IoT) and structural health monitoring (SHM) systems. 
+- **In my position at RIT**, developed machine learning algorithms for condition-based maintenance plus (CBM+) projects such as prognostics and health management (PHM) of engine and transmission systems. I also developed the computer vision systems for automatic garment and textile applications by using image classification, object detection, and semantic segmentation, and also for the condition assessment of microstructures such as micro circuit boards. 
 
-**During my Ph.D. research**, I developed a full version of computer vision-based structural monitoring and evaluation framework which combines the input-output information from images (loads and responses) to assess the performance and condition of structures. In my **postdoctoral research**, I continued to work at the same university, where I devoted myself to computer vision-based multi-level structural assessment at local and global level, structual condition assessment using dynamic testing, reliability evaluation, asset maintenance and management with artificial intelligence.  
+- **In my position at PARC**, I am conducting research on comprehensive structural assessment for transportation infrastructures such as bridges by utilizing fiber optic sensing, machine learning, data analytics, Internet of Things (IoT) technology and structural health monitoring (SHM) systems. 
 
-**My research interests** are Diagnostics, Prognostics and Health Management (PHM), Structural Health Monitoring (SHM), Computer Vision, Structural Dynamics, Non-destructive Evaluation, Vibration Serviceability, Intelligent Infrastructure, Artificial Intelligent, FEM, Sensing Technologies, Bridge Load Rating, Artificial Intelligence, Smart Cities, Structural Reliability, Sustainability, Repair & Rehabilitation of Structures.
+- **During my Ph.D. research**, I developed a full version of computer vision-based structural monitoring and evaluation framework which combines the input-output information from images (loads and responses) to assess the performance and condition of structures. In my **postdoctoral research**, I continued to work at the same university, where I devoted myself to computer vision-based multi-level structural assessment at local and global level, structual condition assessment using dynamic testing, reliability evaluation, asset maintenance and management with artificial intelligence.  
 
-**My goal** is to utilize knowledge in structural mechanics and dynamics, structural analysis, advanced sensing technologies, computer vision, machine learning, deep learning, and signal processing techniques to conduct system monitoring, diagnostics, and prognostics, and support decision making for owners to do better asset management and maintenance.
+**My research interests** are System Performance Diagnostics, Prognostics and Health Management (PHM), Structural Health Monitoring (SHM), Computer Vision, Structural Dynamics, Non-destructive Evaluation, Vibration Serviceability, Intelligent Infrastructure, FEM, Smart Sensing, Bridge Load Rating, Artificial Intelligence, Smart Cities, Structural Reliability, Sustainability, Repair & Rehabilitation of Structures.
+
+**My goal** is to to develop effective and efficient technologies to support decision-making for owners to do better asset management and maintenance.
 
 <!-- **My detailed CV can be downloaded [here](https://1drv.ms/b/s!AjZZWcsrWm3ifCeF_jh5Hj37lT0?e=Ec402l).**  -->
 
 ## Goals for the Near Future
 
-* Investigating advanced technologies and theories to better support the safety of our infrastructures and improve people's life.
-* Converting my research findings into really useful products or tools for the researchers or engineering practioners in the area of infrastructure system monitoring and condition assessment. 
+* Investigating advanced technologies and theories to better support the safety, efficiency and reliability of our infrastructures and improve people's life.
+* Converting the research findings into really useful products or tools for the researchers or engineering practioners in the area of infrastructure system monitoring and condition assessment. 
 
 ## Lifetime Goals
 
