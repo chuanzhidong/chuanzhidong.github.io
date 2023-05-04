@@ -155,6 +155,7 @@ redirect_from:
 **SELECTED COURSEWORK**
 ------
 
+* CS383C: Advanced Linear Algebra for Computation (Numerical Analysis) (UT Austin)
 * CS394D: Deep Learning (UT Austin)
 * CES 5144: Matrix Structural Analysis
 * CES 5325: Bridge Engineering
