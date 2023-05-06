@@ -24,7 +24,7 @@ redirect_from:
 **EMPLOYMENT EXPERIENCE**
 ------
 * **Data Scientist, Shell, Houston, TX, Apr 2023-Present**
-  *	Develop machine learning algorithms for system performance diagnositics and prognostics.
+  *	Develop machine learning algorithms for system performance diagnostics and prognostics.
 
 * **Senior Prognostics and Health Management Engineer, Rochester Institute of Technology (RIT), Rochester, NY, Nov 2022-Mar 2023**
   *	Develop machine learning algorithms for prognostics and health management (PHM) of complex systems such as engines and transmissions.

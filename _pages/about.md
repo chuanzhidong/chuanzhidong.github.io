@@ -10,7 +10,7 @@ redirect_from:
 
 ## About Me
 
-**I currently work** as the Data Scientist at [Shell](https://www.shell.us/about-us/projects-and-locations/shell-technology-center-houston.html). 
+**I currently work** as a Data Scientist within the Industrial AI group at [Shell](https://www.shell.us/about-us/projects-and-locations/shell-technology-center-houston.html) and my current focus is the industrial system performance diagnostics and prognostics. 
 
 **Prior to joining Shell**, I worked as the [Senior Prognostics and Health Management Engineer](https://www.rit.edu/directory/czdgis-chuanzhi-dong) in [Golisano Institute for Sustainability (GIS)](https://www.rit.edu/sustainabilityinstitute/), at [Rochester Institute of Technology (RIT)](https://www.rit.edu/), Rochester, New York. I also worked as the Structural & Analytics Engineer in the Internet of Things (IoT) Tower, at [Xerox's Palo Alto Research Center](https://www.parc.com/) (Xerox PARC), and the Postdoctoral Scholar in the [Department of Civil, Environmental, and Construction Engineering](https://www.cece.ucf.edu/) at the University of Central Florida (UCF). I received my PhD degree from UCF and I was advised by Professor [F. Necati Catbas](https://www.cece.ucf.edu/catbas/) in the [Laboratory for Civil Infrastructure Technologies for Resilience and Safety (CITRS)](https://www.cece.ucf.edu/CITRS/) at UCF. 
 
