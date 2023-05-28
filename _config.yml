@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Dr. Chuanzhi Dong (Chuan-Zhi Dong, C.Z. Dong, 董传智)"
 title_separator          : "-"
-name                     : &name "Chuanzhi Dong, Ph.D."
+name                     : &name "Chuanzhi Dong (董传智), Ph.D."
 description              : &description "personal description"
 url                      : https://chuanzhidong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ author:
   name             : "Chuanzhi Dong, Ph.D."
   avatar           : "Dong.jpeg"
   bio              : "Keep our infrastructures safe and make our lives better." 
-  location         : "Rochester, NY"
+  location         : "Houston, Texas, United States"
   employer         : "Shell"
   googlescholar    : "https://scholar.google.com/citations?user=Xs_dNn4AAAAJ&hl=en&authuser=1"
   email            : "ceczdong@gmail.com"
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "chuanzhidong.github.io"
+  github           : "https://github.com/chuanzhidong"
   google_plus      :
   keybase          :
   instagram        : 
