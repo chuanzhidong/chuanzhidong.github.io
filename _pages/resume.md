@@ -12,19 +12,25 @@ redirect_from:
 **EDUCATION**
 ------
 
-* **Ph.D., University of Central Florida, USA, 2019**
+* **Ph.D., University of Central Florida, Orlando, USA, 2019**
   * Structural Engineering, Advisor: Prof. [**F. Necati Catbas**](https://www.cece.ucf.edu/catbas/)
-* **M.Sc., Zhejiang University, China, 2016**
+* **M.Sc., The University of Texas at Austin, Austin, USA, 2025 (Expected)**
+  * Computer Science
+* **M.Sc., Zhejiang University, Hangzhou, China, 2016**
   * Bridge and Tunnel Engineering
-* **B.S., Zhejiang Gongshang University, China, 2011**
+* **B.S., Zhejiang Gongshang University, Hangzhou, China, 2011**
   * Engineering Management
 
 
 
 **EMPLOYMENT EXPERIENCE**
 ------
+
 * **Data Scientist, Shell, Houston, TX, Apr 2023-Present**
-  *	Develop machine learning algorithms for system performance diagnostics and prognostics.
+  *	Develop machine learning algorithms for performance diagnostics and prognostics at unit/system level.
+
+* **Learning Facilitator (part-time), Department of Computer Science, The University of Texas at Austin, TX, May 2023-Present**
+  *	Support/assist the teaching activities for the course of Advanced Linear Algebra for Computing/Numerical Analysis.
 
 * **Senior Prognostics and Health Management Engineer, Rochester Institute of Technology (RIT), Rochester, NY, Nov 2022-Mar 2023**
   *	Develop machine learning algorithms for prognostics and health management (PHM) of complex systems such as engines and transmissions.
