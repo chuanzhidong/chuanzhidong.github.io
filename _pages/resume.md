@@ -27,7 +27,7 @@ redirect_from:
 ------
 
 * **Data Scientist, Shell, Houston, TX, Apr 2023-Present**
-  *	Develop machine learning algorithms for performance diagnostics and prognostics at unit/system level.
+  *	Develop machine learning algorithms for performance diagnostics and prognostics, predictive maintenance.
 
 * **Learning Facilitator (part-time), Department of Computer Science, The University of Texas at Austin, TX, May 2023-Present**
   *	Support/assist the teaching activities for the course of Advanced Linear Algebra for Computing/Numerical Analysis.
@@ -93,16 +93,14 @@ redirect_from:
 **PERSONAL SKILLS & COMPETENCES**
 ------
 
-* **Engineering software**
-  * ANSYS, ABAQUS, NASTRAN, SAP2000, COMSOL, AutoCAD, SolidWorks, CSiBridge, Midas Civil
 * **Programming/Tools**
-  * Python, C++, C#, Qt, R, LabVIEW, MATLAB, OpenCV, PyTorch, GitHub, JavaScript
-* **Domain Knowledge**
-  * Advanced Sensing, Diagnostics and Prognostics, Dynamics, Computer Vision, Finite Element Analysis, Structural Mechanics, Modal Testing, Vibrations Serviceability, Non-destructive Testing 
+  * Python, C++, C#, Qt, R, PyTorch, Power BI, LabVIEW, MATLAB, OpenCV, GitHub, JavaScript
 * **Data Analysis**
   * Data Mining, Statistics, Machine Learning, Deep Learning, Signal Processing
-
-
+* **Engineering software**
+  * ANSYS, ABAQUS, NASTRAN, SAP2000, COMSOL, AutoCAD, SolidWorks, CSiBridge, Midas Civil
+* **Domain Knowledge**
+  * Advanced Sensing, Diagnostics and Prognostics, Dynamics, Computer Vision, Finite Element Analysis, Structural Mechanics, Modal Testing, Vibrations Serviceability, Non-destructive Testing 
 
 
 **HONORS & AWARDS**
@@ -161,13 +159,15 @@ redirect_from:
 **SELECTED COURSEWORK**
 ------
 
-* CS383C: Advanced Linear Algebra for Computation (Numerical Analysis) (UT Austin)
-* CS394D: Deep Learning (UT Austin)
-* CES 5144: Matrix Structural Analysis
-* CES 5325: Bridge Engineering
-* CES 6116: Finite Element Analysis
-* CES 6209: Dynamics of Structures
+* CS 388: Natural Language Processing (UT Austin)
+* CS 383C: Advanced Linear Algebra for Computation (Numerical Analysis) (UT Austin)
+* CS 394D: Deep Learning (UT Austin)
+* STA 5703: Data Mining
 * CAP 5415: Computer Vision
 * CAP 6412: Advanced Computer Vision
 * CAP 6419: 3D Computer Vision
-* STA 5703: Data Mining
+* CES 6209: Dynamics of Structures
+* CES 6116: Finite Element Analysis
+* CES 5144: Matrix Structural Analysis
+* CES 5325: Bridge Engineering
+

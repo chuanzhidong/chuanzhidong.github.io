@@ -10,7 +10,7 @@ redirect_from:
 
 ## About Me
 
-**I currently work** as a Data Scientist within the Industrial AI group at [Shell](https://www.shell.us/about-us/projects-and-locations/shell-technology-center-houston.html) and my current focus is the industrial system performance diagnostics and prognostics. 
+**I currently work** as a Data Scientist within the Industrial AI group at [Shell](https://www.shell.us/about-us/projects-and-locations/shell-technology-center-houston.html) and my current focus is the industrial system performance diagnostics and prognostics, and predictive maintenance. 
 
 **Prior to joining Shell**, I worked as the [Senior Prognostics and Health Management Engineer](https://www.rit.edu/directory/czdgis-chuanzhi-dong) in [Golisano Institute for Sustainability (GIS)](https://www.rit.edu/sustainabilityinstitute/), at [Rochester Institute of Technology (RIT)](https://www.rit.edu/), Rochester, New York. I also worked as the Structural & Analytics Engineer in the Internet of Things (IoT) Tower, at [Xerox's Palo Alto Research Center](https://www.parc.com/) (Xerox PARC), and the Postdoctoral Scholar in the [Department of Civil, Environmental, and Construction Engineering](https://www.cece.ucf.edu/) at the University of Central Florida (UCF). I received my PhD degree from UCF and I was advised by Professor [F. Necati Catbas](https://www.cece.ucf.edu/catbas/) in the [Laboratory for Civil Infrastructure Technologies for Resilience and Safety (CITRS)](https://www.cece.ucf.edu/CITRS/) at UCF. 
 
@@ -20,7 +20,7 @@ redirect_from:
 
 * **During my Ph.D. research**, I developed a full version of computer vision-based structural monitoring and evaluation framework which combines the input-output information from images (loads and responses) to assess the performance and condition of structures. In my **postdoctoral research**, I continued to work at the same university, where I devoted myself to computer vision-based multi-level structural assessment at local and global level, structual condition assessment using dynamic testing, reliability evaluation, asset maintenance and management with artificial intelligence.  
 
-**My research interests** are System Performance Diagnostics, Prognostics and Health Management (PHM), Structural Health Monitoring (SHM), Computer Vision, Structural Dynamics, Non-destructive Evaluation, Vibration Serviceability, Intelligent Infrastructure, FEM, Smart Sensing, Bridge Load Rating, Artificial Intelligence, Smart Cities, Structural Reliability, Sustainability, Repair & Rehabilitation of Structures.
+**My research interests** are System Performance Diagnostics, Prognostics and Health Management (PHM), Predictive Maintenance, Structural Health Monitoring (SHM), Machine Learning, Computer Vision, Generative AI, NLP, Structural Dynamics, Non-destructive Evaluation, Vibration Serviceability, FEM, Smart Sensing, Bridge Load Rating, Smart Cities, Structural Reliability, Sustainability, Repair & Rehabilitation of Structures.
 
 **My goal** is to develop effective and efficient technologies to support decision-making for owners to do better asset management and maintenance.
 
