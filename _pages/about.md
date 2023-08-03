@@ -10,32 +10,35 @@ redirect_from:
 
 ## About Me
 
-**I currently work** as a Data Scientist within the **Industrial AI** group at [Shell](https://www.shell.us/about-us/projects-and-locations/shell-technology-center-houston.html) and my current focus is the industrial system performance diagnostics, prognostics, and predictive maintenance. 
+* **Currently** I am a dedicated **Data Scientist** working within the **Industrial AI** group at [Shell](https://www.shell.us/about-us/projects-and-locations/shell-technology-center-houston.html). My primary focus lies in industrial system performance diagnostics, prognostics, and predictive maintenance. With a passion for harnessing data-driven solutions, I aim to revolutionize the way industries manage and maintain their assets effectively and efficiently.
 
-**Prior to joining Shell**, I worked as the [Senior Prognostics and Health Management Engineer](https://www.rit.edu/directory/czdgis-chuanzhi-dong) in [Golisano Institute for Sustainability (GIS)](https://www.rit.edu/sustainabilityinstitute/), at [Rochester Institute of Technology (RIT)](https://www.rit.edu/), Rochester, New York. I also worked as the Structural & Analytics Engineer in the Internet of Things (IoT) Tower, at [Xerox's Palo Alto Research Center](https://www.parc.com/) (Xerox PARC), and the Postdoctoral Scholar in the [Department of Civil, Environmental, and Construction Engineering](https://www.cece.ucf.edu/) at the University of Central Florida (UCF). I received my PhD degree from UCF and I was advised by Professor [F. Necati Catbas](https://www.cece.ucf.edu/catbas/) in the [Laboratory for Civil Infrastructure Technologies for Resilience and Safety (CITRS)](https://www.cece.ucf.edu/CITRS/) at UCF. 
+* **In parallel** with my professional career, I am pursuing my Master's degree in **Computer Science** at the University of Texas at Austin[https://www.utexas.edu/], further expanding my knowledge and honing my skills in this dynamic field.
 
-* **In my position at RIT**, developed machine learning algorithms for condition-based maintenance plus (CBM+) projects such as prognostics and health management (PHM) of engine and transmission systems. I also developed the computer vision systems for automatic recycling and resource recorvery applications by using image classification, object detection, and semantic segmentation, and also for the condition assessment of microstructures such as micro circuit boards. 
+* **Before joining Shell**, I held the position of **Senior Prognostics and Health Management Engineer** at the [Golisano Institute for Sustainability (GIS)](https://www.rit.edu/sustainabilityinstitute/), located at the [Rochester Institute of Technology (RIT)](https://www.rit.edu/) in Rochester, New York. My work at RIT involved developing advanced machine learning algorithms for condition-based maintenance projects, particularly in the field of prognostics and health management of engine and transmission systems. Additionally, I played a crucial role in creating computer vision systems for automatic recycling and resource recovery applications, leveraging image classification, object detection, and semantic segmentation. My expertise also extended to the condition assessment of microstructures, such as micro circuit boards.
 
-* **In my position at Xerox PARC**, I am conducting research on comprehensive structural assessment for transportation infrastructures such as bridges by utilizing fiber optic sensing, machine learning, data analytics, Internet of Things (IoT) technology and structural health monitoring (SHM) systems. 
+* **Prior to my time at RIT**, I contributed my skills as a Structural & Analytics Engineer at the Internet of Things (IoT) Tower, situated at [Xerox's Palo Alto Research Center](https://www.parc.com/) (Xerox PARC). During my tenure at **Xerox PARC**, my research centered around comprehensive structural assessment for transportation infrastructures, with a special focus on bridges. I incorporated cutting-edge technologies such as fiber optic sensing, machine learning, data analytics, Internet of Things (IoT) devices, and structural health monitoring (SHM) systems to enhance the safety and performance of these critical assets.
 
-* **During my Ph.D. research**, I developed a full version of computer vision-based structural monitoring and evaluation framework which combines the input-output information from images (loads and responses) to assess the performance and condition of structures. In my **postdoctoral research**, I continued to work at the same university, where I devoted myself to computer vision-based multi-level structural assessment at local and global level, structual condition assessment using dynamic testing, reliability evaluation, asset maintenance and management with artificial intelligence.  
+* **My academic journey** led me to pursue a **Ph.D. in Structual Engineering** at the *University of Central Florida[https://www.ucf.edu/] (UCF), where I was fortunate to be advised by Professor [F. Necati Catbas](https://www.cece.ucf.edu/catbas/) in the [Laboratory for Civil Infrastructure Technologies for Resilience and Safety (CITRS)](https://www.cece.ucf.edu/CITRS/). **My doctoral research** culminated in the development of a pioneering computer vision-based structural health monitoring and evaluation framework. This framework effectively combined input-output information from images to assess the performance and condition of civil infrastructures. Following my Ph.D., I continued my research at UCF as a **Postdoctoral Scholar**, delving into computer vision-based multi-level structural assessment, dynamic testing, reliability evaluation, asset maintenance and management using artificial intelligence.
 
-**My research interests** are System Performance Diagnostics, Prognostics and Health Management (PHM), Predictive Maintenance, Structural Health Monitoring (SHM), Machine Learning, Computer Vision, Generative AI, NLP, Structural Dynamics, Non-destructive Evaluation, Vibration Serviceability, FEM, Smart Sensing, Bridge Load Rating, Smart Cities, Structural Reliability, Sustainability, Repair & Rehabilitation of Structures.
+* As a researcher, **my interests** span a wide range of areas, including System Performance Diagnostics, Prognostics and Health Management (PHM), Predictive Maintenance, Structural Health Monitoring, Machine Learning, Computer Vision, Generative AI, NLP, Structural Dynamics, Non-destructive Evaluation, Vibration Serviceability, FEM, Smart Sensing, Bridge Load Rating, Smart Cities, Structural Reliability, Sustainability, and Repair & Rehabilitation of Structures.
 
-**My goal** is to develop effective and efficient technologies to support decision-making for owners to do better asset management and maintenance.
-
-<!-- **My detailed CV can be downloaded [here](https://1drv.ms/b/s!AjZZWcsrWm3ifCeF_jh5Hj37lT0?e=Ec402l).**  -->
+**My ultimate goal** is to leverage my expertise and experience to develop effective and efficient technologies that empower owners to make informed decisions for optimal asset management and maintenance strategies.
 
 ## Goals for the Near Future
 
-* Investigating advanced technologies and theories to better support the safety, efficiency and reliability of our infrastructures and improve people's life.
-* Converting the research findings into really useful products or tools for the researchers or engineering practioners in the area of infrastructure system monitoring and condition assessment. 
+* In the coming years, my primary focus will be on exploring cutting-edge technologies and theories that can significantly enhance the safety, efficiency, and reliability of our critical infrastructures. 
+* By delving into advanced research, I aim to drive innovations that have a profound positive impact on people's lives. My dedication lies in bridging the gap between theory and practical applications, ensuring that research findings are translated into genuinely useful products and tools. 
+* Through this endeavor, I intend to support researchers and engineering practitioners in the area of infrastructure system monitoring and condition assessment, facilitating smarter decision-making and improved asset management.
 
 ## Lifetime Goals
 
-* Be a professor and teach some helpful courses
-* Write a novel
-* Maybe have PhD in History
+* Looking ahead to my lifetime goals, I aspire to make a lasting impact on future generations through education and knowledge dissemination. One of my greatest ambitions is to become a professor, where I can impart valuable insights and teach courses that inspire and empower young minds. By nurturing the next generation of engineers and researchers, I hope to contribute to the growth and advancement of the field.
+
+* Beyond academia, I also harbor a passion for creative expression and storytelling. As a personal endeavor, I aim to write a novel, using my imagination to craft compelling narratives that captivate readers and explore diverse worlds of literature.
+
+* Furthermore, I entertain the idea of pursuing a PhD in History. This intellectual pursuit stems from my desire to understand the roots of human civilization, learn from the past, and enrich my perspective on the world's historical contexts.
+
+* With a blend of academic, creative, and historical pursuits, I envision a future that allows me to contribute meaningfully to society, inspire others, and continuously expand my horizons of knowledge and creativity.
 
 ## My other links
 
