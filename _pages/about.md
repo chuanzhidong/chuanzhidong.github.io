@@ -26,7 +26,7 @@ redirect_from:
 
 ## Goals for the Near Future
 
-* In the coming years, my primary focus will be on exploring cutting-edge technologies to enhance the safety, efficiency, and reliability of critical infrastructures, with a specific emphasis on optimizing asset management and maintenance strategies. 
+* In the coming years, I am dedicated to exploring cutting-edge technologies to enhance critical infrastructures' safety, efficiency, and reliability, with a particular focus on optimizing asset management and maintenance strategies. 
 * By delving into advanced research, I aim to drive innovations that have a profound positive impact on people's lives. My dedication lies in bridging the gap between theory and practical applications, ensuring that research findings are translated into genuinely useful products and tools. 
 * Through this endeavor, I intend to support researchers and engineering practitioners in the area of industial system monitoring, condition assessment, diagnostics and prognostics, facilitating smarter decision-making and improved asset management.
 
