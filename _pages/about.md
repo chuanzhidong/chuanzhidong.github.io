@@ -10,7 +10,7 @@ redirect_from:
 
 ## About Me
 
-* **Currently** I am a dedicated **Data Scientist** working within the **Industrial AI** group at [Shell](https://www.shell.us/about-us/projects-and-locations/shell-technology-center-houston.html). My primary focus lies in industrial system performance diagnostics, prognostics, and predictive maintenance. With a passion for harnessing data-driven solutions, I aim to revolutionize the way industries manage and maintain their assets effectively and efficiently.
+* **Currently** I am a dedicated **Data Scientist** working within the **Industrial AI** group at [**Shell**](https://www.shell.us/about-us/projects-and-locations/shell-technology-center-houston.html). My primary focus lies in industrial system performance diagnostics, prognostics, and predictive maintenance. With a passion for harnessing data-driven solutions, I aim to revolutionize the way industries manage and maintain their assets effectively and efficiently.
 
 * **In parallel** with my professional career, I am pursuing my Master's degree in **Computer Science** at the [University of Texas at Austin](https://www.utexas.edu/), further expanding my knowledge and honing my skills in this dynamic field.
 
