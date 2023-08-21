@@ -27,14 +27,14 @@ redirect_from:
 ------
 
 * **Data Scientist, Shell, Houston, TX, Apr 2023-Present**
-  *	Develop machine learning algorithms for performance diagnostics and prognostics, predictive maintenance.
+  *	Develop machine learning algorithms for performance diagnostics, prognostics, and predictive maintenance of industrial systems.
 
 * **Learning Facilitator (part-time), Department of Computer Science, The University of Texas at Austin, TX, May 2023-Present**
-  *	Support/assist the teaching activities for the course of Advanced Linear Algebra for Computing/Numerical Analysis.
+  *	Support teaching activities for the Advanced Linear Algebra for Computing/Numerical Analysis course, with a special emphasis on high-performance computing.
 
 * **Senior Prognostics and Health Management Engineer, Rochester Institute of Technology (RIT), Rochester, NY, Nov 2022-Mar 2023**
-  *	Develop machine learning algorithms for prognostics and health management (PHM) of complex systems such as engines and transmissions.
-  * Build computer vision applications such as automatic classification, detection and segmentation for recycling and resource recorvery. 
+  * Developed machine learning algorithms for diagnostics, prognostics and health management (PHM), and predictive maintenance of complex systems such as engines and transmissions.
+  * Built computer vision systems by implementing algorithms such as automatic classification, object detection and semantic segmentation for recycling and resource recovery.
   * Explore image processing and computer vision technologies for condition assessment of microstructures such as micro circuit boards.
 
 * **Structural & Analytics Engineer, Palo Alto Research Center (PARC, a Xerox company), Palo Alto, CA, May 2021-Sep 2022**
