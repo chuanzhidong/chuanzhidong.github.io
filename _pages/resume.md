@@ -21,10 +21,6 @@ redirect_from:
 * **B.S., Zhejiang Gongshang University, Hangzhou, China, 2011**
   * Engineering Management
 
-
-
-
-
 **EMPLOYMENT EXPERIENCE**
 ------
 
@@ -164,6 +160,7 @@ redirect_from:
 **SELECTED COURSEWORK**
 ------
 
+* CS 391L: Machine Learning (UT Austin)
 * CS 388: Natural Language Processing (UT Austin)
 * CS 383C: Advanced Linear Algebra for Computation (Numerical Analysis) (UT Austin)
 * CS 394D: Deep Learning (UT Austin)
