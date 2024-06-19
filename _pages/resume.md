@@ -23,19 +23,25 @@ redirect_from:
 
 
 
+
+
 **EMPLOYMENT EXPERIENCE**
 ------
 
 * **Data Scientist, Shell, Houston, TX, Apr 2023-Present**
-  *	Develop machine learning algorithms for performance diagnostics, prognostics, and predictive maintenance of industrial systems.
+  * Develop intelligent solutions using NLP/LLMs and Retrieval Augmented Generation (RAG) to process unstructured data such as reports, contracts, tender documents and meeting records, extract critical information and insights, conduct assessment and predictive analysis, and enhance decision-making processes in asset management, supply chain optimization, and tender processing.
+  * 	Build internal chatbots using LLMs and RAG to chat with internal documents and large unstructured database for information extraction, question-answering and summarization and support commercial and engineering team in oil and gas industry. 
+  * Develop advanced machine learning algorithms to conduct health monitoring, anomaly detection, fault diagnostics, and failure prognostics of industrial systems for predictive maintenance purposes.
+  * Develop ensemble learning methods with feature importance ranking and predictive analysis to extract crucial industrial KPIs for prioritizing workflows, optimizing resource allocation, predict unplanned downtime, and finally support asset management by reducing deferment.
+  * Develop and manage a comprehensive data pipeline with data ingestion, cleansing, transformation, augmentation, aggregation, and enhancement of diverse data types sourced from multiple origins. This pipeline effectively supports asset management through the visualization and evaluation of KPIs, ensuring data is meticulously organized and readily accessible for strategic decision-making. 
 
 * **Learning Facilitator (part-time), Department of Computer Science, The University of Texas at Austin, TX, May 2023-Present**
   *	Support teaching activities for the Advanced Linear Algebra for Computing/Numerical Analysis course, with a special emphasis on high-performance computing.
 
 * **Senior Prognostics and Health Management Engineer, Rochester Institute of Technology (RIT), Rochester, NY, Nov 2022-Mar 2023**
-  * Developed machine learning algorithms for diagnostics, prognostics and health management (PHM), and predictive maintenance of complex systems such as engines and transmissions.
-  * Built computer vision systems by implementing algorithms such as automatic classification, object detection and semantic segmentation for recycling and resource recovery.
-  * Explore image processing and computer vision technologies for condition assessment of microstructures such as micro circuit boards.
+  * Built a comprehensive computer vision solution utilizing ML techniques for cloth classification, object detection, and semantic segmentation and using hyperspectral image analysis aided material recognition for clothing material detection and cutting path establishment. Implemented data acquisition, preprocessing, storage, and online process pipelines, enabling efficient clothing material recycling and resource recovery operations.
+  * Designed and implemented an ML pipeline to extract, visualize, and analyze data from vehicle health and usage management systems, develop and deploy ML algorithms for diagnostics, prognostics, and predictive maintenance of complex systems like engines and transmissions.
+  * Conducted in-depth research into image processing and computer vision technologies, applying ML models to conduct condition assessment and quality analysis of intricate microstructures, including micro circuit boards, to ensure high standards of maintenance and reliability.
 
 * **Structural & Analytics Engineer, Palo Alto Research Center (PARC, a Xerox company), Palo Alto, CA, May 2021-Sep 2022**
   *	Developed fiber optic sensor and Internet of Thing (IoT)-based structural health monitoring system for transportation infrastructures to diagnose the structural health status and system performance.
@@ -43,14 +49,11 @@ redirect_from:
   *	Conducted R&D of condition assessment, load detection, load capacity evaluation and predictive models with hybrid methods based on IoT system, computer vision, machine/deep learning, and data analytics.
   *	Investigated system operation status and structural behaviors under super loads/significant events by using large data analysis, computer vision, and machine learning based methods.
 
-
 * **Postdoctoral Scholar, University of Central Florida, Orlando, FL, Jan 2020 - May 2021**
-  *	Developed deep learning algorithms to detect local structural damages such as crack, spalling and delamination by using multi-source information fusion such as conventional sensor signals, images, infrared/thermal images, NDT, and FEA results.
-  *	Investigated mechanical behavior, dynamic properties, and load distribution effects of deteriorated coastal bridges by using load tests, SHM, digital image correlation (DIC) and NDT.
-  *	Investigated machine learning-based algorithms to detect the structural characteristic changes from bridge monitoring data of sensors and cameras before and after bridge repairs.
-  *	Wrote research proposals for fundings from different agencies and asset owners.
-  *	Mentored and led graduate and undergraduate students in multiple research projects.
-
+  * Developed deep learning algorithms to detect local structural damages such as crack, spalling and delamination by using computer vision and multimodal information fusion such as conventional sensor signals, visual images, infrared/thermal images, and FEA results.
+  * Investigated mechanical behavior, dynamic properties, and load distribution effects of deteriorated coastal bridges by using load tests, SHM, computer vision, OpenCV, digital image correlation, and NDT.
+  * Investigated machine learning-based algorithms to detect the structural characteristic changes from bridge monitoring data of sensors and cameras before and after bridge repairs.
+  * Wrote research proposals for fundings from different agencies and asset owners.
 
 * **Guest Lecturer/Course Instructor, University of Central Florida, Orlando, FL, 2021-2022**
   * Finite Element Analysis: graduate level course.
@@ -58,26 +61,26 @@ redirect_from:
   * Statics: undergraduate level course. 
 
 * **Research Assistant, University of Central Florida, Orlando, FL, Aug 2016 - Dec 2019**
-  *	Proposed a fully structure-oriented noncontact health monitoring framework with different computer vision algorithms, and improved the monitoring efficiency under different application scenarios.
-  *	Proposed a portable approach to estimate the bridge load distribution and load rating by using computer vision, and achieved the bridge load rating under normal traffic and without load test.
-  *	Developed a non-contact bridge weigh-in-motion (WIM) approach by using computer vision, and estimated the human load on a footbridge.
-  *	Monitored the structural vibrations of a large stadium using sensors and cameras during NCAA football games, and investigated the vibration serviceability of the stadium under human crowd dynamic loads.
-  *	Wrote research proposals for fundings and mentored graduate and undergraduate students.
-  *	Mentored a diverse group of students to do finite element analysis, loading test, vibration monitoring and modal analysis.
+  * Proposed a fully structure-oriented computer vision-based health monitoring framework with different computer vision algorithms using OpenCV and improved the monitoring efficiency under different application scenarios.
+  * Proposed a portable approach to estimate the bridge load distribution and load rating by using computer vision in OpenCV and achieved the bridge load rating under normal traffic and without load test.
+  * Developed a computer vision-based bridge weigh-in-motion (WIM) approach by using Python, OpenCV and Pytorch, and estimated the human load on a footbridge.
+  * Assessed the structural vibrations of a large stadium using sensors, cameras and computer vision libraries like OpenCV during NCAA football games, and investigated the vibration serviceability of the stadium under human crowd dynamic loads.
+  * Wrote research proposals for fundings and mentored graduate and undergraduate students.
+
 
 
 * **Research Assistant, Zhejiang University, Hangzhou, China, May 2012 - Aug 2016**
-  *	Developed an Elasto-Magnetic effect based total strain/stress sensing method for steel cables and implemented on real bridges to estimate the cable stress loss during construction and operation stages.
-  *	Built a scaled model of a cable-stayed bridge, implemented the structural health monitoring system on it and conducted experiments and structural evaluation.
-  *	Developed computer vision-based structural monitoring methods and implemented on multiple structures to estimate the structural behaviors and evaluate structural performances under various types of loads.
-  *	Analyzed seven months displacement data from a bridge health monitoring system and extracted the bridge profile changes under long term temperature effects.
-  *	Extracted the temperature induced and the traffic induced strain components from the measurements of fiber optical sensors using Wavelet Analysis.
+  * Developed computer vision-based structural monitoring methods using Python, OpenCV, Halcon and LabVIEW, and implemented on multiple structures to estimate the structural behaviors and evaluate structural performances under various types of loads.
+  * Extracted the temperature induced and the traffic induced strain components from the measurements of fiber optical sensors using Wavelet Analysis.
+  * Developed an Elasto-Magnetic effect based total strain/stress sensing method for steel cables, and implemented on real bridges to estimate the cable stress loss during construction and operation stages.
+  * Built a scaled model of a cable-stayed bridge, implemented the structural health monitoring system on it and conducted experiments and structural evaluation.
+  * Analyzed seven months displacement data from a bridge health monitoring system and extracted the bridge profile changes under long term temperature effects.
+
 
 
 * **Teaching Assistant, Zhejiang University, Hangzhou, China, Sep 2014 - May 2016**
   * Guided undergraduate students to gain hands-on experiences in different types of sensing technologies for structural health monitoring during the Structural Health Monitoring and Control course.
   * Mentored three students on their undergraduates’ graduation projects.
-
 
 
 **PROJECT INVOLVED**
@@ -93,14 +96,16 @@ redirect_from:
 **PERSONAL SKILLS & COMPETENCES**
 ------
 
-* **Programming/Tools**
-  * Python, C++, C#, Qt, R, PyTorch, Power BI, LabVIEW, MATLAB, OpenCV, GitHub, JavaScript
-* **Data Analysis**
-  * Data Mining, Statistics, Machine Learning, Deep Learning, Signal Processing
+* **Programming and Development**
+  * Python, SQL, JavaScript, C++, C#, R, Pandas, NumPy, Plotly, Postman, PyTorch, OpenCV, TensorFlow, Git, Qt, FastAPI
+* **Data Processing and Analytics Skills**
+  * Machine Learning, Deep Learning, Data Mining, Statistics, Digital Signal Processing, Data Pipeline and ETL Processes
+* **Data Analysis Tools**
+  * AWS (S3, EC2, Athena, SageMaker, etc.), GCP, Power BI, MySQL, PostgreSQL, MongoDB, Spark, Tableau 
+* **Specified Domain Knowledge**
+  * Natural Language Processing (NLP), Large Language Model (LLM), Computer Vision, Image Processing, Time Series Analysis, Internet of Things (IoT), Numerical Simulation, Advanced Sensing, System Diagnostics and Prognostics, Health Monitoring 
 * **Engineering software**
-  * ANSYS, ABAQUS, NASTRAN, SAP2000, COMSOL, AutoCAD, SolidWorks, CSiBridge, Midas Civil
-* **Domain Knowledge**
-  * Advanced Sensing, Diagnostics and Prognostics, Dynamics, Computer Vision, Finite Element Analysis, Structural Mechanics, Modal Testing, Vibrations Serviceability, Non-destructive Testing 
+  * ANSYS, ABAQUS, NASTRAN, SAP2000, COMSOL, AutoCAD, SolidWorks, CSiBridge, Midas Civil 
 
 
 **HONORS & AWARDS**

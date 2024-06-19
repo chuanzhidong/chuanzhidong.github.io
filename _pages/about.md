@@ -25,6 +25,7 @@ redirect_from:
 **In essence**, my goal is to harness my vast expertise and drive innovations that equip asset owners with powerful tools for informed decision-making, optimizing management and maintenance strategies.
 
 
+
 ## Near-Future Goals
 
 * Explore cutting-edge technologies and theories to enhance the safety, efficiency, and reliability of our infrastructures, ultimately aiming to improve quality of life.
