@@ -10,6 +10,7 @@ redirect_from:
 
 <table>
   <tr>
+    <th><a href="https://chuanzhidong.github.io/about/">About Me</a></th>
     <th><a href="https://chuanzhidong.github.io/resume/">Resume</a></th>
     <th><a href="https://chuanzhidong.github.io/publications/">Publications</a></th>
     <th><a href="https://chuanzhidong.github.io/photovisuals/">Photos</a></th>
@@ -53,6 +54,7 @@ redirect_from:
 
 <table>
   <tr>
+    <th><a href="https://chuanzhidong.github.io/about/">About Me</a></th>
     <th><a href="https://chuanzhidong.github.io/resume/">Resume</a></th>
     <th><a href="https://chuanzhidong.github.io/publications/">Publications</a></th>
     <th><a href="https://chuanzhidong.github.io/photovisuals/">Photos</a></th>
