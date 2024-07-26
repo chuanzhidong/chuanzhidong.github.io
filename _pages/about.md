@@ -8,6 +8,17 @@ redirect_from:
   - /about.html
 ---
 
+<table>
+  <tr>
+    <th><a href="https://chuanzhidong.github.io/resume/">Resume</a></th>
+    <th><a href="https://chuanzhidong.github.io/publications/">Publications</a></th>
+    <th><a href="https://chuanzhidong.github.io/photovisuals/">Photos</a></th>
+    <th><a href="https://www.linkedin.com/in/chuanzhidong">LinkedIn</a></th>
+    <th><a href="https://scholar.google.com/citations?user=Xs_dNn4AAAAJ&hl=en&authuser=1">Google Scholar</a></th>
+    <th><a href="https://www.researchgate.net/profile/Chuan_Zhi_Dong">ResearchGate</a></th>
+  </tr>
+</table>
+
 ## About Me
 
 * **Currently**, I serve as a dedicated **Data Scientist** within the Industrial AI group at [**Shell**](https://www.shell.us/about-us/projects-and-locations/shell-technology-center-houston.html). My expertise is centered on extracting crucial information from unstructured data, utilizing **natural language processing** (NLP) and **large language models** (LLM) to enhance **decision-making** processes in asset management, supply chain optimization, and tender processing. This includes a strategic emphasis on **minimizing deferment**, ensuring that operational efficiencies are maximized and delays are significantly reduced. In addition, I am involved in developing advanced solutions for diagnostics, prognostics, and **predictive maintenance** of industrial systems, employing state-of-the-art techniques in machine learning, time series analysis, and computer vision. My work is driven by a strong conviction in the transformative power of data and a commitment to leveraging this potential to revolutionize how industries manage and maintain their assets. By focusing on efficiency and innovation, I aim to contribute to the creation of more resilient and agile operational frameworks that can better withstand the challenges of modern industry.
