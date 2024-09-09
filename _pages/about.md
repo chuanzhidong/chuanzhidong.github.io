@@ -22,7 +22,7 @@ redirect_from:
 
 ## About Me
 
-* **Currently**, I work as the **Staff Data Scientist** at [**Baker Hughes**](https://www.bakerhughes.com/) to develop AI and machine learning solutions for [automated production](https://www.bakerhughes.com/leucipa-automated-field-production-solution) and predictive maintenance in oil and gas industry. 
+* **Currently**, I work as the **Staff Data Scientist** at [**Baker Hughes**](https://www.bakerhughes.com/) to develop AI and machine learning solutions for [automated production](https://www.bakerhughes.com/leucipa-automated-field-production-solution) and predictive maintenance in the oil and gas industry. 
 
 * **Simultaneously**, I'm pursuing a Master's degree in **Computer Science** at the [**University of Texas at Austin**](https://www.utexas.edu/). This academic endeavor serves to deepen my understanding and enhance my expertise in this ever-evolving field. In addition, I've had the privilege of serving as a Learning Facilitator in the Department of Computer Science, bolstering teaching efforts for the Advanced Linear Algebra for Computing/Numerical Analysis course, with a special emphasis on high-performance computing.
 

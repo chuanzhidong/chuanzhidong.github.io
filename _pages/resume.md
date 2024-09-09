@@ -37,7 +37,7 @@ redirect_from:
 ------
 
 * **Staff Data Scientist, Baker Hughes, Houston, TX, Aug 2024-Present**
-  * Develop AI and machine learning solutions for automated production and predictive maintenance in oil and gas industry
+  * Develop AI and machine learning solutions for automated production and predictive maintenance in the oil and gas industry
 
 * **Data Scientist, Shell, Houston, TX, Apr 2023-Aug 2024**
   * Develop intelligent solutions using NLP/LLMs and Retrieval Augmented Generation (RAG) to process unstructured data such as reports, contracts, tender documents and meeting records, extract critical information and insights, conduct assessment and predictive analysis, and enhance decision-making processes in asset management, supply chain optimization, and tender processing.
