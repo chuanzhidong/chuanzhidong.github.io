@@ -36,14 +36,17 @@ redirect_from:
 **EMPLOYMENT EXPERIENCE**
 ------
 
-* **Data Scientist, Shell, Houston, TX, Apr 2023-Present**
+* **Staff Data Scientist, Baker Hughes, Houston, TX, Aug 2024-Present**
+  * Develop AI and machine learning solutions for automated production and predictive maintenance in oil and gas industry
+
+* **Data Scientist, Shell, Houston, TX, Apr 2023-Aug 2024**
   * Develop intelligent solutions using NLP/LLMs and Retrieval Augmented Generation (RAG) to process unstructured data such as reports, contracts, tender documents and meeting records, extract critical information and insights, conduct assessment and predictive analysis, and enhance decision-making processes in asset management, supply chain optimization, and tender processing.
   * 	Build internal chatbots using LLMs and RAG to chat with internal documents and large unstructured database for information extraction, question-answering and summarization and support commercial and engineering team in oil and gas industry. 
   * Develop advanced machine learning algorithms to conduct health monitoring, anomaly detection, fault diagnostics, and failure prognostics of industrial systems for predictive maintenance purposes.
   * Develop ensemble learning methods with feature importance ranking and predictive analysis to extract crucial industrial KPIs for prioritizing workflows, optimizing resource allocation, predict unplanned downtime, and finally support asset management by reducing deferment.
   * Develop and manage a comprehensive data pipeline with data ingestion, cleansing, transformation, augmentation, aggregation, and enhancement of diverse data types sourced from multiple origins. This pipeline effectively supports asset management through the visualization and evaluation of KPIs, ensuring data is meticulously organized and readily accessible for strategic decision-making. 
 
-* **Learning Facilitator (part-time), Department of Computer Science, The University of Texas at Austin, TX, May 2023-Present**
+* **Learning Facilitator (part-time), Department of Computer Science, The University of Texas at Austin, TX, May 2023-Aug 2023**
   *	Support teaching activities for the Advanced Linear Algebra for Computing/Numerical Analysis course, with a special emphasis on high-performance computing.
 
 * **Senior Prognostics and Health Management Engineer, Rochester Institute of Technology (RIT), Rochester, NY, Nov 2022-Mar 2023**
