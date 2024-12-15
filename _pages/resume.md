@@ -175,6 +175,7 @@ redirect_from:
 **SELECTED COURSEWORK**
 ------
 
+* CS 388U: Planning, Search, and Reasoning Under Uncertainty (UT Austin)
 * CS 391L: Machine Learning (UT Austin)
 * CS 388: Natural Language Processing (UT Austin)
 * CS 383C: Advanced Linear Algebra for Computation (Numerical Analysis) (UT Austin)
