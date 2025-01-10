@@ -122,6 +122,7 @@ redirect_from:
 **HONORS & AWARDS**
 ------
 
+* 2024 Best Research Award from the ASCE (American Society of Civil Engineers) Journal of Bridge Engineering, 2025.
 * The First Prize of the 1st International Project Competition for Structural Health Monitoring, 2020.
 * The CECS’s 2019 Outstanding Dissertation Award by College of Engineering and Computer Science (CECS), University of Central Florida (UCF), 2019.
 * UCF Graduate Presentation Fellowship (2017-2019 academic years, three times).
