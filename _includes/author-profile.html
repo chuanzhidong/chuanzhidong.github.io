@@ -19,6 +19,23 @@
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
+  {% if author.scholar_citations or author.page_views %}
+    <ul class="author__stats">
+      {%- if author.scholar_citations -%}
+        <li>
+          <span class="author__stat-value">{{ author.scholar_citations }}</span>
+          <span class="author__stat-label">Google Scholar Citations</span>
+        </li>
+      {%- endif -%}
+      {%- if author.page_views -%}
+        <li>
+          <span class="author__stat-value">{{ author.page_views }}</span>
+          <span class="author__stat-label">Site Views</span>
+        </li>
+      {%- endif -%}
+    </ul>
+  {% endif %}
+
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
