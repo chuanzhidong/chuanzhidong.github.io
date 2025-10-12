@@ -14,9 +14,10 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 <table>
   <tr>
     <th><a href="https://chuanzhidong.github.io/about/">About Me</a></th>
-    <th><a href="https://chuanzhidong.github.io/resume/">Resume</a></th>
-    <th><a href="https://chuanzhidong.github.io/publications/">Publications</a></th>
-    <th><a href="https://chuanzhidong.github.io/photovisuals/">Photos</a></th>
+  <th><a href="https://chuanzhidong.github.io/resume/">Resume</a></th>
+  <th><a href="https://chuanzhidong.github.io/projects/">Projects</a></th>
+  <th><a href="https://chuanzhidong.github.io/publications/">Publications</a></th>
+  <th><a href="https://chuanzhidong.github.io/photovisuals/">Photos</a></th>
     <th><a href="https://www.linkedin.com/in/chuanzhidong">LinkedIn</a></th>
     <th><a href="https://scholar.google.com/citations?user=Xs_dNn4AAAAJ&hl=en&authuser=1">Google Scholar</a></th>
     <th><a href="https://www.researchgate.net/profile/Chuan_Zhi_Dong">ResearchGate</a></th>
@@ -129,9 +130,10 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 <table>
   <tr>
     <th><a href="https://chuanzhidong.github.io/about/">About Me</a></th>
-    <th><a href="https://chuanzhidong.github.io/resume/">Resume</a></th>
-    <th><a href="https://chuanzhidong.github.io/publications/">Publications</a></th>
-    <th><a href="https://chuanzhidong.github.io/photovisuals/">Photos</a></th>
+  <th><a href="https://chuanzhidong.github.io/resume/">Resume</a></th>
+  <th><a href="https://chuanzhidong.github.io/projects/">Projects</a></th>
+  <th><a href="https://chuanzhidong.github.io/publications/">Publications</a></th>
+  <th><a href="https://chuanzhidong.github.io/photovisuals/">Photos</a></th>
     <th><a href="https://www.linkedin.com/in/chuanzhidong">LinkedIn</a></th>
     <th><a href="https://scholar.google.com/citations?user=Xs_dNn4AAAAJ&hl=en&authuser=1">Google Scholar</a></th>
     <th><a href="https://www.researchgate.net/profile/Chuan_Zhi_Dong">ResearchGate</a></th>
