@@ -129,32 +129,6 @@
   }
 }
 
-.author__stats {
-  margin: 15px 0 20px;
-  padding: 0;
-  list-style: none;
-
-  li {
-    margin: 0 0 8px;
-  }
-
-  .author__stat-value {
-    display: block;
-    font-family: $sans-serif-narrow;
-    font-weight: 600;
-    font-size: $type-size-5;
-    line-height: 1.1;
-  }
-
-  .author__stat-label {
-    display: block;
-    font-size: $type-size-7;
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
-    color: $text-color-light;
-  }
-}
-
 .author__urls-wrapper {
   position: relative;
   display: table-cell;
