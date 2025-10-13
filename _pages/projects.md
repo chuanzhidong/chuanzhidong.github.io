@@ -22,8 +22,8 @@ author_profile: true
 
 **PROJECTS**
 ------
-* ***Featured Projects***
-  * Car Deals & Feels: A Social Platform for New Car Purchases with Location Mapping [**Link**](https://www.youtube.com/watch?v=7iQaFFBpKK4)
+* ***Recent Projects***
+  * **May 2025** Car Deals & Feels: A Social Platform for New Car Purchases with Location Mapping [**Link**](https://www.youtube.com/watch?v=7iQaFFBpKK4)
 
     <figure class="project-figure">
       <img src="{{ '/images/projects/car_deals_feels/car_deals_feels_1.png' | relative_url }}" alt="Car Deals & Feels interface overview">
