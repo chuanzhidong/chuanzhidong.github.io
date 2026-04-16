@@ -150,9 +150,10 @@
   .author__stat-value {
     display: block;
     font-family: $sans-serif-narrow;
-    font-weight: 600;
-    font-size: $type-size-4;
+    font-weight: 700;
+    font-size: $type-size-3;
     line-height: 1.1;
+    color: $link-color;
   }
 
   .author__stat-label {
