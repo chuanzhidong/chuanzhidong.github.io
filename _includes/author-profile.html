@@ -19,6 +19,36 @@
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
+  {% if site.data.scholar.citations or site.data.scholar.h_index %}
+    <ul class="author__stats">
+      {% if site.data.scholar.citations %}
+        <li>
+          {% if author.googlescholar %}
+            <a href="{{ author.googlescholar }}" class="author__stat-link">
+          {% endif %}
+          <span class="author__stat-value">{{ site.data.scholar.citations }}</span>
+          <span class="author__stat-label">Scholar Citations</span>
+          {% if author.googlescholar %}</a>{% endif %}
+        </li>
+      {% endif %}
+      {% if site.data.scholar.h_index %}
+        <li>
+          <span class="author__stat-value">{{ site.data.scholar.h_index }}</span>
+          <span class="author__stat-label">h-index</span>
+        </li>
+      {% endif %}
+      {% if site.data.scholar.i10_index %}
+        <li>
+          <span class="author__stat-value">{{ site.data.scholar.i10_index }}</span>
+          <span class="author__stat-label">i10-index</span>
+        </li>
+      {% endif %}
+      {% if site.data.scholar.updated %}
+        <li class="author__stat-updated">Updated {{ site.data.scholar.updated }}</li>
+      {% endif %}
+    </ul>
+  {% endif %}
+
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
