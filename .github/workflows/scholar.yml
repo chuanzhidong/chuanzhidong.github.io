@@ -25,6 +25,7 @@ jobs:
         timeout-minutes: 2
         env:
           SCHOLAR_ID: Xs_dNn4AAAAJ
+          SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
         run: python .github/scripts/update_scholar.py
 
       - name: Commit changes

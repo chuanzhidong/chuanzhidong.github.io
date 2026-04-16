@@ -1,52 +1,65 @@
-"""Fetch Google Scholar stats for the configured author and write _data/scholar.yml.
+"""Fetch Google Scholar stats via SerpAPI and write _data/scholar.yml.
 
-Does a direct HTTP GET against the public profile page and parses the stats
-table. No third-party scraping library, no proxies — runs in a few seconds.
-Failures leave the existing data file untouched so the site keeps showing the
-last known values.
+Uses SerpAPI's google_scholar_author engine — the numbers match what visitors
+see on scholar.google.com. Failures leave the existing data file untouched so
+the site keeps showing the last known values.
 """
 
+import json
 import os
-import re
 import sys
+import urllib.error
+import urllib.parse
+import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 
-import urllib.request
-import urllib.error
 import yaml
 
 SCHOLAR_ID = os.environ.get("SCHOLAR_ID")
+SERPAPI_KEY = os.environ.get("SERPAPI_KEY")
 OUTPUT = Path("_data/scholar.yml")
-URL = "https://scholar.google.com/citations?user={id}&hl=en"
-USER_AGENT = (
-    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
-    "(KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
-)
+API = "https://serpapi.com/search.json"
 
 
-def fetch_html(scholar_id: str) -> str:
-    req = urllib.request.Request(
-        URL.format(id=scholar_id),
-        headers={"User-Agent": USER_AGENT, "Accept-Language": "en-US,en;q=0.9"},
+def fetch() -> dict:
+    params = urllib.parse.urlencode(
+        {
+            "engine": "google_scholar_author",
+            "author_id": SCHOLAR_ID,
+            "api_key": SERPAPI_KEY,
+            "hl": "en",
+        }
     )
+    req = urllib.request.Request(f"{API}?{params}")
     with urllib.request.urlopen(req, timeout=30) as resp:
-        return resp.read().decode("utf-8", errors="replace")
+        return json.loads(resp.read().decode("utf-8"))
 
 
-def parse_stats(html: str) -> dict:
-    # The stats table has rows with <td class="gsc_rsb_std">N</td><td class="gsc_rsb_std">M</td>
-    # in order: Citations (all, 5y), h-index (all, 5y), i10-index (all, 5y).
-    values = [int(v) for v in re.findall(r'class="gsc_rsb_std">(\d+)</td>', html)]
-    if len(values) < 6:
-        raise ValueError(f"Unexpected Scholar page layout (got {len(values)} stats)")
+def extract(payload: dict) -> dict:
+    # cited_by.table is a list: [{citations: {all, since_YYYY}}, {h_index: ...}, {i10_index: ...}]
+    table = payload.get("cited_by", {}).get("table", [])
+    flat = {}
+    for row in table:
+        flat.update(row)
+
+    def pick(key: str, scope: str) -> int | None:
+        cell = flat.get(key, {})
+        if scope == "all":
+            return cell.get("all")
+        # "since" key varies by year, e.g. "since_2019"
+        for k, v in cell.items():
+            if k.startswith("since_"):
+                return v
+        return None
+
     return {
-        "citations": values[0],
-        "citations_5y": values[1],
-        "h_index": values[2],
-        "h_index_5y": values[3],
-        "i10_index": values[4],
-        "i10_index_5y": values[5],
+        "citations": pick("citations", "all"),
+        "citations_5y": pick("citations", "since"),
+        "h_index": pick("h_index", "all"),
+        "h_index_5y": pick("h_index", "since"),
+        "i10_index": pick("i10_index", "all"),
+        "i10_index_5y": pick("i10_index", "since"),
     }
 
 
@@ -54,27 +67,30 @@ def main() -> int:
     if not SCHOLAR_ID:
         print("SCHOLAR_ID env var is required", file=sys.stderr)
         return 1
+    if not SERPAPI_KEY:
+        print("SERPAPI_KEY env var is required", file=sys.stderr)
+        return 1
 
     try:
-        html = fetch_html(SCHOLAR_ID)
+        payload = fetch()
+    except urllib.error.HTTPError as exc:
+        body = exc.read().decode("utf-8", errors="replace")
+        print(f"SerpAPI HTTP {exc.code}: {body}", file=sys.stderr)
+        return 1
     except urllib.error.URLError as exc:
-        print(f"Failed to fetch Scholar page: {exc}", file=sys.stderr)
+        print(f"SerpAPI request failed: {exc}", file=sys.stderr)
         return 1
 
-    if "CAPTCHA" in html or "unusual traffic" in html.lower():
-        print("Scholar returned a CAPTCHA page; skipping.", file=sys.stderr)
+    if payload.get("error"):
+        print(f"SerpAPI error: {payload['error']}", file=sys.stderr)
         return 1
 
-    try:
-        stats = parse_stats(html)
-    except ValueError as exc:
-        print(f"Failed to parse Scholar page: {exc}", file=sys.stderr)
+    stats = extract(payload)
+    if not stats["citations"] and not stats["h_index"]:
+        print(f"No stats in response: {payload.get('cited_by')}", file=sys.stderr)
         return 1
 
-    data = {
-        **stats,
-        "updated": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
-    }
+    data = {**stats, "updated": datetime.now(timezone.utc).strftime("%Y-%m-%d")}
 
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     with OUTPUT.open("w", encoding="utf-8") as f:
