@@ -19,9 +19,10 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install scholarly pyyaml
+        run: pip install pyyaml
 
       - name: Fetch Scholar stats
+        timeout-minutes: 2
         env:
           SCHOLAR_ID: Xs_dNn4AAAAJ
         run: python .github/scripts/update_scholar.py
