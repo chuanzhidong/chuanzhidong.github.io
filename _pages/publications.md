@@ -26,6 +26,10 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 
 **PUBLICATIONS**
 ------
+
+* **US Patents:**
+  * Catbas, F.N., and **Dong, C.Z.** (2025), "Computer vision-based system and method for assessment of load distribution, load rating, and vibration serviceability of structures", **US Patent No. 12,430,733 B2, Granted on Sep. 30, 2025**, United States.
+
 * ***Representative Journal Publications***
   * **Dong, C.Z.**, Bas, S., and Catbas, F.N. (2020), “Investigation of vibration serviceability of a footbridge using computer vision-based methods”, Engineering Structures, 224, 111224. [**Link**](https://doi.org/10.1016/j.engstruct.2020.111224)
   * **Dong, C.Z.**, Bas, S., and Catbas, F.N. (2020), “A portable monitoring approach using cameras and computer vision for bridge load rating in smart cities”, Journal of Civil Structural Health Monitoring, 10(5), 1001–1021. [**Link**](https://www.researchgate.net/publication/343974339_A_portable_monitoring_approach_using_cameras_and_computer_vision_for_bridge_load_rating_in_smart_cities)
@@ -35,6 +39,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
   * **Dong, C.Z.**, Bas, S., and Catbas, F.N. (2019), “A completely non-contact recognition system for bridge unit influence line using portable cameras and computer vision”, Smart Structures and Systems, 24(5), 617-630. [**Link**](https://www.researchgate.net/publication/337495712_A_completely_non-contact_recognition_system_for_bridge_unit_influence_line_using_portable_cameras_and_computer_vision)
 
 * **Full List of Journal Publications**
+  * Ai, S., **Dong, C.Z.**, Mei, Q. (2026), "A fast and accurate phase-based displacement measurement method based on complex Laplacian pyramid with condensed focus frequency", Computer-Aided Civil and Infrastructure Engineering, 42, 100023. [**Link**](https://doi.org/10.1016/j.cacaie.2026.100023)
   * Ai, S., **Dong, C.Z.**, Mei, Q. (2024), "The optimal scale level of complex steerable pyramid for phase-based motion estimation under different motion ranges and target sizes", Measurement 253, 117440. [**Link**](https://doi.org/10.1016/j.measurement.2025.117440)
   * Debees, M., Luleci, F., **Dong, C.Z.**, Catbas, F.N. (2023), "Investigating the increase in load rating and reliability of a prestressed concrete bridge when utilizing field-derived distribution and impact factors", Journal of Bridge Engineering, American Society of Civil Engineers (ASCE), 29(3), 04023123. [**Link**](https://doi.org/10.1061/JBENF2.BEENG-6485)
   * **Dong, C.Z.**, Bas, S., Catbas, F.N. (2023), "Applications of computer vision-based structural monitoring on long-span bridges in Turkey", Sensors, 23, 8161, s23198161. [**Link**](https://doi.org/10.3390/s23198161)
@@ -113,8 +118,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 * **Book Chapter:**
   * Ye, X.W., Liu, T., **Dong, C.Z.**, and Chen, B. (2016), “FBG-based structural performance monitoring and safety evaluation of a composite arch bridge”, Structural Health Monitoring of Composite Structures: Using Fiber Optic Methods, CRC Press.
 
-* **Patents and Copyrights:**
-  * Catbas, F.N., and **Dong, C.Z.** (2025), "Computer vision-based system and method for assessment of load distribution, load rating, and vibration serviceability of structures", **US Patent No. 12,430,733 B2, Granted on Sep. 30, 2025**, United States.
+* **Other Patents and Copyrights:**
   * Ye, X.W. **Dong, C.Z.**, and Liu, T. (2016), “Quasi distributed structure displacement optical measurement method”, Chinese Patent, National Copyright Administration of the People’s Republic of China. 
   * Ye, X.W. **Dong, C.Z.**, and Liu, T. (2016), “A computer vision based cable distribution stress on-line monitoring method”, Chinese Patent, National Copyright Administration of the People’s Republic of China. 
   * Ye, X.W. **Dong, C.Z.**, and Liu, T. (2017), “Automatic detecting and early warning method for track foreign matter invasion based on Internet of Things technology”, Chinese Patent, National Copyright Administration of the People’s Republic of China. 
