@@ -176,6 +176,9 @@ redirect_from:
 **SELECTED COURSEWORK**
 ------
 
+* CS 389L: Automated Logic Reasoning (UT Austin)
+* CS 386P: Android Programming (UT Austin)
+* CS 395T: Advances in Deep Generative Models (UT Austin)
 * CS 388U: Planning, Search, and Reasoning Under Uncertainty (UT Austin)
 * CS 391L: Machine Learning (UT Austin)
 * CS 388: Natural Language Processing (UT Austin)
