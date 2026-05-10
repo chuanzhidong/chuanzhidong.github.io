@@ -26,7 +26,7 @@ redirect_from:
 
 * **Ph.D., University of Central Florida, Orlando, USA, 2019**
   * Structural Engineering, Advisor: Prof. [**F. Necati Catbas**](https://www.cece.ucf.edu/catbas/)
-* **M.Sc., The University of Texas at Austin, Austin, USA, 2025 (Expected)**
+* **M.Sc., The University of Texas at Austin, Austin, USA, 2026 (Expected)**
   * Computer Science
 * **M.Sc., Zhejiang University, Hangzhou, China, 2016**
   * Bridge and Tunnel Engineering
