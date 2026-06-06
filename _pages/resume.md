@@ -54,7 +54,7 @@ redirect_from:
   * Designed and implemented an ML pipeline to extract, visualize, and analyze data from vehicle health and usage management systems, develop and deploy ML algorithms for diagnostics, prognostics, and predictive maintenance of complex systems like engines and transmissions.
   * Conducted in-depth research into image processing and computer vision technologies, applying ML models to conduct condition assessment and quality analysis of intricate microstructures, including micro circuit boards, to ensure high standards of maintenance and reliability.
 
-* **Structural & Analytics Engineer, Palo Alto Research Center (PARC, a Xerox company), Palo Alto, CA, May 2021-Sep 2022**
+* **R&D Scientist II in Mechanical/Structural & Analytics, Palo Alto Research Center (PARC, a Xerox company), Palo Alto, CA, May 2021-Sep 2022**
   *	Developed fiber optic sensor and Internet of Thing (IoT)-based structural health monitoring system for transportation infrastructures to diagnose the structural health status and system performance.
   *	Developed finite element models to evaluate system load carrying capacities and critical components for diagnostics and prognostics.
   *	Conducted R&D of condition assessment, load detection, load capacity evaluation and predictive models with hybrid methods based on IoT system, computer vision, machine/deep learning, and data analytics.
