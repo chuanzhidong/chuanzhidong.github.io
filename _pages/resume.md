@@ -176,7 +176,7 @@ redirect_from:
 **SELECTED COURSEWORK**
 ------
 
-* CS 383C: Advances in Deep Learning (UT Austin)
+* CS 395T: Advances in Deep Learning (UT Austin)
 * CS 389L: Automated Logic Reasoning (UT Austin)
 * CS 386P: Android Programming (UT Austin)
 * CS 395T: Advances in Deep Generative Models (UT Austin)
